@@ -1,0 +1,6518 @@
+[
+  {
+    "date": "2014-06-04",
+    "private": 80,
+    "business": 1000,
+    "service": 2000
+  },
+  {
+    "date": "2014-06-05",
+    "private": 100,
+    "business": 880
+  },
+  {
+    "date": "2014-06-20",
+    "private": 130,
+    "business": 590
+  },
+  {
+    "date": "2014-06-25",
+    "business": 1120,
+    "private": 100,
+    "service": 20
+  },
+  {
+    "date": "2014-04-10",
+    "business": 1060,
+    "private": 50
+  },
+  {
+    "date": "2014-04-17",
+    "business": 760,
+    "private": 40,
+    "service": 20
+  },
+  {
+    "date": "2014-04-18",
+    "business": 450,
+    "private": 20
+  },
+  {
+    "date": "2014-04-19",
+    "business": 380,
+    "private": 20,
+    "service": 60
+  },
+  {
+    "date": "2014-04-20",
+    "business": 380,
+    "private": 20
+  },
+  {
+    "date": "2014-04-21",
+    "business": 370,
+    "private": 20
+  },
+  {
+    "date": "2014-04-25",
+    "business": 740,
+    "private": 50
+  },
+  {
+    "date": "2014-04-26",
+    "business": 590,
+    "private": 50,
+    "service": 80
+  },
+  {
+    "date": "2014-04-27",
+    "business": 520,
+    "private": 70
+  },
+  {
+    "date": "2014-04-28",
+    "business": 940,
+    "private": 50,
+    "service": 20
+  },
+  {
+    "date": "2014-04-24",
+    "business": 1020,
+    "private": 20
+  },
+  {
+    "date": "2014-04-22",
+    "business": 710,
+    "private": 40,
+    "service": 20
+  },
+  {
+    "date": "2014-04-23",
+    "business": 960,
+    "private": 30
+  },
+  {
+    "date": "2014-05-22",
+    "business": 1000,
+    "private": 70
+  },
+  {
+    "date": "2014-05-13",
+    "business": 1090,
+    "private": 40
+  },
+  {
+    "date": "2014-05-14",
+    "business": 910,
+    "private": 40
+  },
+  {
+    "date": "2014-05-15",
+    "business": 810,
+    "private": 60
+  },
+  {
+    "date": "2014-05-16",
+    "business": 910,
+    "private": 20
+  },
+  {
+    "date": "2014-05-08",
+    "business": 1160,
+    "private": 40
+  },
+  {
+    "date": "2014-05-09",
+    "business": 650,
+    "private": 30,
+    "service": 20
+  },
+  {
+    "date": "2014-05-12",
+    "business": 840,
+    "private": 40
+  },
+  {
+    "date": "2014-05-20",
+    "business": 1070,
+    "private": 30
+  },
+  {
+    "date": "2014-05-21",
+    "business": 920,
+    "private": 30
+  },
+  {
+    "date": "2014-05-23",
+    "business": 710,
+    "private": 100,
+    "service": 20
+  },
+  {
+    "date": "2014-05-28",
+    "business": 830,
+    "private": 30
+  },
+  {
+    "date": "2014-06-11",
+    "business": 1010,
+    "private": 50
+  },
+  {
+    "date": "2014-06-21",
+    "business": 460,
+    "private": 130,
+    "service": 80
+  },
+  {
+    "date": "2014-06-22",
+    "business": 400,
+    "private": 110
+  },
+  {
+    "date": "2014-06-23",
+    "business": 950,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2014-06-17",
+    "business": 1090,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2014-06-24",
+    "business": 1080,
+    "private": 90,
+    "service": 20
+  },
+  {
+    "date": "2014-06-30",
+    "business": 890,
+    "private": 170
+  },
+  {
+    "date": "2014-07-01",
+    "business": 1070,
+    "private": 90
+  },
+  {
+    "date": "2014-07-02",
+    "business": 1010,
+    "private": 90
+  },
+  {
+    "date": "2014-07-03",
+    "business": 800,
+    "private": 70
+  },
+  {
+    "date": "2014-07-04",
+    "business": 750,
+    "private": 190,
+    "service": 60
+  },
+  {
+    "date": "2014-07-05",
+    "business": 320,
+    "private": 120
+  },
+  {
+    "date": "2014-07-06",
+    "business": 400,
+    "private": 90
+  },
+  {
+    "date": "2014-07-14",
+    "private": 200,
+    "business": 960,
+    "service": 40
+  },
+  {
+    "date": "2014-07-15",
+    "private": 150,
+    "business": 1100,
+    "service": 20
+  },
+  {
+    "date": "2014-07-16",
+    "private": 200,
+    "business": 990,
+    "service": 20
+  },
+  {
+    "date": "2014-07-18",
+    "private": 200,
+    "business": 770,
+    "service": 40
+  },
+  {
+    "date": "2014-07-20",
+    "private": 140,
+    "business": 550
+  },
+  {
+    "date": "2014-07-23",
+    "private": 190,
+    "business": 900
+  },
+  {
+    "date": "2014-07-24",
+    "private": 170,
+    "business": 910
+  },
+  {
+    "date": "2014-07-25",
+    "private": 270,
+    "business": 630,
+    "service": 60
+  },
+  {
+    "date": "2014-07-26",
+    "private": 160,
+    "business": 430,
+    "service": 20
+  },
+  {
+    "date": "2014-07-28",
+    "private": 160,
+    "business": 700
+  },
+  {
+    "date": "2014-07-31",
+    "private": 210,
+    "business": 830
+  },
+  {
+    "date": "2014-08-02",
+    "private": 130,
+    "business": 400,
+    "service": 20
+  },
+  {
+    "date": "2014-08-05",
+    "private": 130,
+    "business": 780
+  },
+  {
+    "date": "2014-08-06",
+    "private": 160,
+    "business": 670
+  },
+  {
+    "date": "2014-08-07",
+    "private": 120,
+    "business": 710,
+    "service": 20
+  },
+  {
+    "date": "2014-08-12",
+    "private": 170,
+    "business": 730,
+    "service": 20
+  },
+  {
+    "date": "2014-08-13",
+    "private": 110,
+    "business": 970,
+    "service": 20
+  },
+  {
+    "date": "2014-08-14",
+    "private": 70,
+    "business": 790,
+    "service": 40
+  },
+  {
+    "date": "2014-07-21",
+    "private": 90,
+    "business": 760
+  },
+  {
+    "date": "2014-07-22",
+    "private": 120,
+    "business": 1010
+  },
+  {
+    "date": "2014-07-27",
+    "private": 190,
+    "business": 400
+  },
+  {
+    "date": "2014-07-29",
+    "private": 130,
+    "business": 820
+  },
+  {
+    "date": "2014-07-30",
+    "private": 120,
+    "business": 980
+  },
+  {
+    "date": "2014-08-01",
+    "private": 100,
+    "business": 750,
+    "service": 60
+  },
+  {
+    "date": "2014-08-03",
+    "private": 90,
+    "business": 400
+  },
+  {
+    "date": "2014-08-08",
+    "private": 130,
+    "business": 450,
+    "service": 60
+  },
+  {
+    "date": "2014-08-09",
+    "private": 120,
+    "business": 300,
+    "service": 20
+  },
+  {
+    "date": "2014-08-10",
+    "private": 140,
+    "business": 340
+  },
+  {
+    "date": "2014-07-17",
+    "private": 120,
+    "business": 920,
+    "service": 40
+  },
+  {
+    "date": "2014-08-04",
+    "private": 110,
+    "business": 690
+  },
+  {
+    "date": "2014-08-18",
+    "private": 100,
+    "business": 830,
+    "service": 20
+  },
+  {
+    "date": "2014-07-07",
+    "private": 140,
+    "business": 770,
+    "service": 20
+  },
+  {
+    "date": "2014-07-08",
+    "private": 150,
+    "business": 760,
+    "service": 20
+  },
+  {
+    "date": "2014-07-09",
+    "private": 140,
+    "business": 1000,
+    "service": 20
+  },
+  {
+    "date": "2014-07-10",
+    "private": 130,
+    "business": 960,
+    "service": 20
+  },
+  {
+    "date": "2014-07-11",
+    "private": 120,
+    "business": 870,
+    "service": 20
+  },
+  {
+    "date": "2014-07-12",
+    "private": 120,
+    "business": 440,
+    "service": 80
+  },
+  {
+    "date": "2014-07-13",
+    "private": 110,
+    "business": 380
+  },
+  {
+    "date": "2014-06-27",
+    "private": 130,
+    "business": 800,
+    "service": 100
+  },
+  {
+    "date": "2014-06-28",
+    "private": 100,
+    "business": 410
+  },
+  {
+    "date": "2014-06-29",
+    "private": 110,
+    "business": 490
+  },
+  {
+    "date": "2014-06-26",
+    "private": 120,
+    "business": 1010,
+    "service": 20
+  },
+  {
+    "date": "2014-06-18",
+    "private": 110,
+    "business": 890
+  },
+  {
+    "date": "2014-06-19",
+    "private": 80,
+    "business": 600
+  },
+  {
+    "date": "2014-06-16",
+    "private": 90,
+    "business": 1010
+  },
+  {
+    "date": "2014-06-12",
+    "business": 880,
+    "private": 60
+  },
+  {
+    "date": "2014-06-13",
+    "private": 70,
+    "business": 840,
+    "service": 40
+  },
+  {
+    "date": "2014-06-14",
+    "private": 70,
+    "business": 490,
+    "service": 20
+  },
+  {
+    "date": "2014-06-15",
+    "private": 90,
+    "business": 420
+  },
+  {
+    "date": "2014-06-10",
+    "private": 120,
+    "business": 960
+  },
+  {
+    "date": "2014-06-06",
+    "private": 110,
+    "business": 680,
+    "service": 60
+  },
+  {
+    "date": "2014-06-07",
+    "private": 90,
+    "business": 330,
+    "service": 20
+  },
+  {
+    "date": "2014-06-08",
+    "private": 110,
+    "business": 280
+  },
+  {
+    "date": "2014-06-09",
+    "private": 80,
+    "business": 340
+  },
+  {
+    "date": "2014-06-02",
+    "private": 90,
+    "business": 820
+  },
+  {
+    "date": "2014-06-03",
+    "business": 1150,
+    "private": 100
+  },
+  {
+    "date": "2014-05-30",
+    "private": 70,
+    "business": 320
+  },
+  {
+    "date": "2014-05-31",
+    "private": 50,
+    "business": 390,
+    "service": 160
+  },
+  {
+    "date": "2014-06-01",
+    "private": 70,
+    "business": 280
+  },
+  {
+    "date": "2014-05-29",
+    "private": 40,
+    "business": 350
+  },
+  {
+    "date": "2014-05-27",
+    "private": 100,
+    "business": 990
+  },
+  {
+    "date": "2014-05-26",
+    "private": 60,
+    "business": 880
+  },
+  {
+    "date": "2014-05-24",
+    "private": 120,
+    "business": 460,
+    "service": 140
+  },
+  {
+    "date": "2014-05-25",
+    "private": 110,
+    "business": 390
+  },
+  {
+    "date": "2014-05-07",
+    "business": 900,
+    "private": 30
+  },
+  {
+    "date": "2014-04-30",
+    "private": 30,
+    "business": 820
+  },
+  {
+    "date": "2014-05-01",
+    "private": 50,
+    "business": 390
+  },
+  {
+    "date": "2014-05-19",
+    "business": 1080,
+    "private": 50
+  },
+  {
+    "date": "2014-04-07",
+    "private": 40,
+    "business": 850
+  },
+  {
+    "date": "2014-03-27",
+    "business": 870,
+    "private": 20
+  },
+  {
+    "date": "2014-03-25",
+    "business": 890,
+    "private": 40
+  },
+  {
+    "date": "2014-03-17",
+    "business": 640,
+    "private": 40
+  },
+  {
+    "date": "2014-03-24",
+    "business": 790,
+    "private": 60
+  },
+  {
+    "date": "2014-03-14",
+    "private": 40,
+    "business": 580,
+    "service": 20
+  },
+  {
+    "date": "2014-03-15",
+    "private": 40,
+    "business": 430,
+    "service": 20
+  },
+  {
+    "date": "2014-03-16",
+    "private": 70,
+    "business": 350,
+    "service": 20
+  },
+  {
+    "date": "2014-03-13",
+    "business": 740,
+    "private": 50
+  },
+  {
+    "date": "2014-03-12",
+    "private": 40,
+    "business": 910,
+    "service": 20
+  },
+  {
+    "date": "2014-03-11",
+    "business": 710,
+    "private": 40
+  },
+  {
+    "date": "2014-03-01",
+    "business": 260,
+    "private": 30
+  },
+  {
+    "date": "2014-03-02",
+    "business": 230,
+    "private": 30
+  },
+  {
+    "date": "2014-03-03",
+    "business": 460,
+    "private": 30
+  },
+  {
+    "date": "2014-03-04",
+    "business": 710,
+    "private": 30
+  },
+  {
+    "date": "2014-03-05",
+    "business": 590,
+    "private": 60
+  },
+  {
+    "date": "2014-03-07",
+    "private": 20,
+    "business": 540,
+    "service": 80
+  },
+  {
+    "date": "2014-03-08",
+    "private": 20,
+    "business": 310,
+    "service": 40
+  },
+  {
+    "date": "2014-03-09",
+    "private": 30,
+    "business": 280,
+    "service": 40
+  },
+  {
+    "date": "2014-02-26",
+    "private": 50,
+    "business": 480
+  },
+  {
+    "date": "2014-02-27",
+    "private": 40,
+    "business": 680
+  },
+  {
+    "date": "2014-02-18",
+    "business": 680,
+    "private": 30
+  },
+  {
+    "date": "2014-02-14",
+    "private": 50,
+    "business": 400,
+    "service": 20
+  },
+  {
+    "date": "2014-02-15",
+    "private": 40,
+    "business": 180,
+    "service": 20
+  },
+  {
+    "date": "2014-02-16",
+    "private": 40,
+    "business": 190,
+    "service": 20
+  },
+  {
+    "date": "2014-02-20",
+    "business": 860,
+    "private": 40
+  },
+  {
+    "date": "2014-02-21",
+    "business": 610,
+    "private": 20,
+    "service": 20
+  },
+  {
+    "date": "2014-02-22",
+    "business": 350,
+    "private": 20
+  },
+  {
+    "date": "2014-02-23",
+    "business": 330,
+    "private": 40
+  },
+  {
+    "date": "2014-02-24",
+    "business": 620,
+    "private": 40
+  },
+  {
+    "date": "2014-02-13",
+    "business": 690,
+    "private": 40
+  },
+  {
+    "date": "2014-02-17",
+    "business": 610,
+    "private": 30
+  },
+  {
+    "date": "2014-01-31",
+    "business": 410,
+    "private": 50,
+    "service": 40
+  },
+  {
+    "date": "2014-01-29",
+    "private": 90,
+    "business": 710
+  },
+  {
+    "date": "2014-01-27",
+    "business": 500,
+    "private": 30
+  },
+  {
+    "date": "2014-01-21",
+    "private": 40,
+    "business": 530,
+    "service": 20
+  },
+  {
+    "date": "2014-01-28",
+    "business": 690,
+    "private": 90
+  },
+  {
+    "date": "2014-01-18",
+    "business": 370,
+    "private": 10,
+    "service": 20
+  },
+  {
+    "date": "2014-01-16",
+    "private": 20,
+    "business": 520
+  },
+  {
+    "date": "2014-01-15",
+    "business": 550,
+    "private": 10
+  },
+  {
+    "date": "2014-01-24",
+    "private": 40,
+    "business": 240
+  },
+  {
+    "date": "2014-01-25",
+    "private": 30,
+    "business": 140
+  },
+  {
+    "date": "2014-01-26",
+    "private": 30,
+    "business": 140
+  },
+  {
+    "date": "2014-01-22",
+    "business": 820,
+    "private": 40,
+    "service": 20
+  },
+  {
+    "date": "2014-01-23",
+    "business": 720,
+    "private": 40
+  },
+  {
+    "date": "2014-01-08",
+    "business": 260,
+    "private": 20
+  },
+  {
+    "date": "2014-01-07",
+    "private": 40,
+    "business": 260
+  },
+  {
+    "date": "2014-01-09",
+    "business": 460,
+    "private": 30
+  },
+  {
+    "date": "2014-01-10",
+    "business": 260,
+    "private": 10
+  },
+  {
+    "date": "2014-01-02",
+    "business": 240,
+    "private": 40
+  },
+  {
+    "date": "2013-12-28",
+    "private": 20,
+    "business": 260
+  },
+  {
+    "date": "2013-12-19",
+    "private": 30,
+    "business": 400
+  },
+  {
+    "date": "2013-12-20",
+    "private": 30,
+    "business": 290
+  },
+  {
+    "date": "2013-12-21",
+    "private": 20,
+    "business": 240
+  },
+  {
+    "date": "2013-12-22",
+    "private": 20,
+    "business": 240
+  },
+  {
+    "date": "2013-12-17",
+    "private": 20,
+    "business": 370
+  },
+  {
+    "date": "2013-12-16",
+    "business": 300,
+    "private": 30
+  },
+  {
+    "date": "2013-12-18",
+    "business": 400,
+    "private": 10
+  },
+  {
+    "date": "2013-12-11",
+    "business": 400,
+    "private": 50
+  },
+  {
+    "date": "2013-11-28",
+    "business": 310,
+    "private": 70
+  },
+  {
+    "date": "2013-11-27",
+    "business": 400,
+    "private": 60
+  },
+  {
+    "date": "2013-11-26",
+    "business": 450,
+    "private": 60
+  },
+  {
+    "date": "2013-12-02",
+    "business": 320,
+    "private": 40
+  },
+  {
+    "date": "2013-12-03",
+    "business": 320,
+    "private": 30
+  },
+  {
+    "date": "2013-12-04",
+    "business": 410,
+    "private": 40
+  },
+  {
+    "date": "2013-12-05",
+    "business": 460,
+    "private": 40
+  },
+  {
+    "date": "2013-12-06",
+    "business": 280,
+    "private": 70
+  },
+  {
+    "date": "2013-12-07",
+    "business": 150,
+    "private": 50
+  },
+  {
+    "date": "2013-12-08",
+    "business": 150,
+    "private": 50
+  },
+  {
+    "date": "2013-12-09",
+    "business": 330,
+    "private": 60
+  },
+  {
+    "date": "2013-12-10",
+    "business": 450,
+    "private": 40
+  },
+  {
+    "date": "2013-11-29",
+    "business": 380,
+    "private": 60
+  },
+  {
+    "date": "2013-11-21",
+    "business": 410,
+    "private": 40
+  },
+  {
+    "date": "2013-11-20",
+    "private": 40,
+    "business": 480
+  },
+  {
+    "date": "2013-11-19",
+    "private": 80,
+    "business": 350
+  },
+  {
+    "date": "2013-11-15",
+    "business": 300,
+    "private": 60
+  },
+  {
+    "date": "2013-11-18",
+    "business": 350,
+    "private": 90
+  },
+  {
+    "date": "2013-11-13",
+    "private": 60,
+    "business": 360
+  },
+  {
+    "date": "2013-11-12",
+    "private": 50,
+    "business": 430
+  },
+  {
+    "date": "2013-11-07",
+    "business": 260,
+    "private": 70
+  },
+  {
+    "date": "2013-11-06",
+    "private": 30,
+    "business": 450
+  },
+  {
+    "date": "2013-11-05",
+    "business": 370,
+    "private": 20
+  },
+  {
+    "date": "2013-11-11",
+    "business": 420,
+    "private": 30
+  },
+  {
+    "date": "2013-10-31",
+    "private": 50,
+    "business": 420
+  },
+  {
+    "date": "2013-10-30",
+    "business": 300,
+    "private": 60
+  },
+  {
+    "date": "2013-10-29",
+    "business": 530,
+    "private": 40
+  },
+  {
+    "date": "2013-10-25",
+    "business": 250,
+    "private": 50
+  },
+  {
+    "date": "2013-10-26",
+    "business": 190,
+    "private": 30
+  },
+  {
+    "date": "2013-10-27",
+    "business": 190,
+    "private": 30
+  },
+  {
+    "date": "2013-10-28",
+    "business": 470,
+    "private": 60
+  },
+  {
+    "date": "2013-10-24",
+    "business": 450,
+    "private": 60
+  },
+  {
+    "date": "2013-10-23",
+    "business": 400,
+    "private": 10
+  },
+  {
+    "date": "2013-10-22",
+    "business": 370,
+    "private": 10
+  },
+  {
+    "date": "2013-10-21",
+    "business": 440,
+    "private": 30
+  },
+  {
+    "date": "2013-10-18",
+    "business": 240,
+    "private": 30
+  },
+  {
+    "date": "2013-10-16",
+    "business": 460,
+    "private": 30
+  },
+  {
+    "date": "2013-10-17",
+    "business": 350,
+    "private": 20
+  },
+  {
+    "date": "2013-10-15",
+    "private": 40,
+    "business": 350
+  },
+  {
+    "date": "2013-10-14",
+    "business": 400,
+    "private": 20
+  },
+  {
+    "date": "2013-10-11",
+    "business": 240,
+    "private": 40
+  },
+  {
+    "date": "2013-10-02",
+    "business": 260,
+    "private": 10
+  },
+  {
+    "date": "2013-10-07",
+    "business": 100,
+    "private": 10
+  },
+  {
+    "date": "2013-10-01",
+    "private": 20,
+    "business": 210
+  },
+  {
+    "date": "2013-09-27",
+    "business": 90,
+    "private": 10
+  },
+  {
+    "date": "2013-09-30",
+    "business": 160,
+    "private": 10
+  },
+  {
+    "date": "2013-10-04",
+    "private": 30,
+    "business": 150
+  },
+  {
+    "date": "2013-10-05",
+    "private": 20,
+    "business": 80
+  },
+  {
+    "date": "2013-10-06",
+    "private": 20,
+    "business": 80
+  },
+  {
+    "date": "2013-09-19",
+    "business": 270,
+    "private": 10
+  },
+  {
+    "date": "2013-09-17",
+    "business": 130,
+    "private": 10
+  },
+  {
+    "date": "2013-09-16",
+    "business": 120,
+    "private": 10
+  },
+  {
+    "date": "2013-09-12",
+    "business": 140
+  },
+  {
+    "date": "2013-09-11",
+    "private": 10,
+    "business": 150
+  },
+  {
+    "date": "2013-09-09",
+    "business": 160
+  },
+  {
+    "date": "2013-09-05",
+    "business": 250
+  },
+  {
+    "date": "2013-09-04",
+    "business": 210
+  },
+  {
+    "date": "2013-09-03",
+    "business": 210
+  },
+  {
+    "date": "2013-09-02",
+    "business": 180
+  },
+  {
+    "date": "2013-08-30",
+    "business": 110,
+    "private": 10
+  },
+  {
+    "date": "2013-08-31",
+    "private": 10,
+    "business": 40
+  },
+  {
+    "date": "2013-09-01",
+    "private": 10,
+    "business": 50
+  },
+  {
+    "date": "2013-08-29",
+    "business": 200
+  },
+  {
+    "date": "2013-08-26",
+    "business": 200
+  },
+  {
+    "date": "2013-08-23",
+    "business": 80
+  },
+  {
+    "date": "2013-08-22",
+    "business": 300
+  },
+  {
+    "date": "2013-08-27",
+    "business": 270
+  },
+  {
+    "date": "2013-08-21",
+    "business": 180
+  },
+  {
+    "date": "2013-08-20",
+    "business": 130
+  },
+  {
+    "date": "2013-08-14",
+    "private": 10,
+    "business": 110
+  },
+  {
+    "date": "2013-08-15",
+    "private": 10,
+    "business": 110
+  },
+  {
+    "date": "2013-08-12",
+    "business": 110
+  },
+  {
+    "date": "2013-08-05",
+    "business": 80
+  },
+  {
+    "date": "2013-08-01",
+    "business": 70,
+    "private": 10
+  },
+  {
+    "date": "2013-07-30",
+    "business": 40
+  },
+  {
+    "date": "2013-07-29",
+    "business": 50
+  },
+  {
+    "date": "2013-07-31",
+    "business": 40
+  },
+  {
+    "date": "2013-07-25",
+    "business": 100
+  },
+  {
+    "date": "2013-07-23",
+    "business": 80
+  },
+  {
+    "date": "2013-07-18",
+    "business": 180
+  },
+  {
+    "date": "2014-05-10",
+    "business": 560,
+    "private": 50,
+    "service": 220
+  },
+  {
+    "date": "2014-05-11",
+    "business": 390,
+    "private": 40
+  },
+  {
+    "date": "2014-05-05",
+    "business": 630,
+    "private": 40
+  },
+  {
+    "date": "2014-04-29",
+    "private": 20,
+    "business": 980
+  },
+  {
+    "date": "2014-04-15",
+    "business": 990,
+    "private": 50
+  },
+  {
+    "date": "2014-04-11",
+    "private": 40,
+    "business": 760,
+    "service": 20
+  },
+  {
+    "date": "2014-04-12",
+    "private": 40,
+    "business": 430,
+    "service": 60
+  },
+  {
+    "date": "2014-04-13",
+    "private": 40,
+    "business": 420
+  },
+  {
+    "date": "2014-04-14",
+    "private": 50,
+    "business": 890
+  },
+  {
+    "date": "2014-04-04",
+    "business": 760,
+    "private": 10,
+    "service": 20
+  },
+  {
+    "date": "2014-04-02",
+    "business": 890,
+    "private": 20
+  },
+  {
+    "date": "2014-03-28",
+    "private": 30,
+    "business": 690,
+    "service": 40
+  },
+  {
+    "date": "2014-03-26",
+    "business": 830,
+    "private": 50
+  },
+  {
+    "date": "2014-03-21",
+    "private": 70,
+    "business": 720,
+    "service": 80
+  },
+  {
+    "date": "2014-03-22",
+    "private": 70,
+    "business": 350,
+    "service": 20
+  },
+  {
+    "date": "2014-03-23",
+    "private": 70,
+    "business": 350,
+    "service": 20
+  },
+  {
+    "date": "2014-03-20",
+    "business": 790,
+    "private": 60
+  },
+  {
+    "date": "2014-03-19",
+    "business": 790,
+    "private": 30
+  },
+  {
+    "date": "2014-07-19",
+    "business": 570,
+    "private": 90,
+    "service": 40
+  },
+  {
+    "date": "2014-08-11",
+    "business": 620,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2014-08-15",
+    "business": 570,
+    "private": 50,
+    "service": 100
+  },
+  {
+    "date": "2014-08-16",
+    "business": 380,
+    "private": 50
+  },
+  {
+    "date": "2014-08-17",
+    "business": 400,
+    "private": 50
+  },
+  {
+    "date": "2014-08-19",
+    "business": 1030,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2014-08-20",
+    "business": 840,
+    "private": 100,
+    "service": 20
+  },
+  {
+    "date": "2014-08-21",
+    "business": 730,
+    "private": 40,
+    "service": 20
+  },
+  {
+    "date": "2014-08-22",
+    "business": 440,
+    "private": 70
+  },
+  {
+    "date": "2014-08-23",
+    "business": 320,
+    "private": 70,
+    "service": 60
+  },
+  {
+    "date": "2014-08-24",
+    "business": 290,
+    "private": 60
+  },
+  {
+    "date": "2014-08-25",
+    "business": 700,
+    "private": 70
+  },
+  {
+    "date": "2014-08-26",
+    "business": 910,
+    "private": 30
+  },
+  {
+    "date": "2014-08-27",
+    "business": 850,
+    "private": 30
+  },
+  {
+    "date": "2014-08-28",
+    "business": 950,
+    "private": 50
+  },
+  {
+    "date": "2014-08-29",
+    "business": 620,
+    "private": 20,
+    "service": 60
+  },
+  {
+    "date": "2014-08-30",
+    "business": 430,
+    "private": 20,
+    "service": 20
+  },
+  {
+    "date": "2014-08-31",
+    "business": 470,
+    "private": 40
+  },
+  {
+    "date": "2014-09-01",
+    "business": 780,
+    "private": 80
+  },
+  {
+    "date": "2014-09-02",
+    "business": 1050,
+    "private": 50
+  },
+  {
+    "date": "2014-09-03",
+    "business": 1030,
+    "private": 50
+  },
+  {
+    "date": "2014-09-04",
+    "business": 1040,
+    "private": 90
+  },
+  {
+    "date": "2014-09-05",
+    "business": 890,
+    "private": 120
+  },
+  {
+    "date": "2014-09-06",
+    "business": 410,
+    "private": 100,
+    "service": 80
+  },
+  {
+    "date": "2014-09-07",
+    "business": 440,
+    "private": 100
+  },
+  {
+    "date": "2014-09-08",
+    "business": 1040,
+    "private": 90
+  },
+  {
+    "date": "2014-09-09",
+    "business": 1160,
+    "private": 70
+  },
+  {
+    "date": "2014-09-10",
+    "business": 1080,
+    "private": 130
+  },
+  {
+    "date": "2014-09-11",
+    "business": 1050,
+    "private": 90
+  },
+  {
+    "date": "2014-09-12",
+    "business": 960,
+    "private": 140,
+    "service": 20
+  },
+  {
+    "date": "2014-09-13",
+    "business": 520,
+    "private": 100,
+    "service": 60
+  },
+  {
+    "date": "2014-09-14",
+    "business": 430,
+    "private": 160
+  },
+  {
+    "date": "2014-09-15",
+    "business": 1170,
+    "private": 110
+  },
+  {
+    "date": "2014-09-16",
+    "business": 1090,
+    "private": 160
+  },
+  {
+    "date": "2014-09-17",
+    "business": 960,
+    "private": 110
+  },
+  {
+    "date": "2014-09-18",
+    "business": 1180,
+    "private": 50
+  },
+  {
+    "date": "2014-09-19",
+    "business": 960,
+    "private": 120,
+    "service": 60
+  },
+  {
+    "date": "2014-09-20",
+    "business": 580,
+    "private": 100,
+    "service": 20
+  },
+  {
+    "date": "2014-09-21",
+    "business": 600,
+    "private": 120
+  },
+  {
+    "date": "2014-09-22",
+    "business": 1040,
+    "private": 110
+  },
+  {
+    "date": "2014-09-23",
+    "business": 1330,
+    "private": 180
+  },
+  {
+    "date": "2014-09-24",
+    "business": 1110,
+    "private": 130
+  },
+  {
+    "date": "2014-09-25",
+    "business": 1110,
+    "private": 170
+  },
+  {
+    "date": "2014-09-26",
+    "business": 1250,
+    "private": 120,
+    "service": 40
+  },
+  {
+    "date": "2014-09-27",
+    "business": 580,
+    "private": 190,
+    "service": 20
+  },
+  {
+    "date": "2014-09-28",
+    "business": 560,
+    "private": 160
+  },
+  {
+    "date": "2014-09-29",
+    "business": 1220,
+    "private": 150
+  },
+  {
+    "date": "2014-09-30",
+    "business": 1040,
+    "private": 160
+  },
+  {
+    "date": "2014-10-01",
+    "business": 1270,
+    "private": 180
+  },
+  {
+    "date": "2014-10-02",
+    "business": 1090,
+    "private": 150
+  },
+  {
+    "date": "2014-10-03",
+    "business": 580,
+    "private": 130
+  },
+  {
+    "date": "2014-10-04",
+    "business": 340,
+    "private": 220,
+    "service": 80
+  },
+  {
+    "date": "2014-10-05",
+    "business": 430,
+    "private": 130
+  },
+  {
+    "date": "2014-10-06",
+    "business": 880,
+    "private": 140
+  },
+  {
+    "date": "2014-10-07",
+    "business": 970,
+    "private": 140
+  },
+  {
+    "date": "2014-10-08",
+    "business": 990,
+    "private": 150
+  },
+  {
+    "date": "2014-10-09",
+    "business": 850,
+    "private": 120
+  },
+  {
+    "date": "2014-10-10",
+    "business": 960,
+    "private": 210,
+    "service": 60
+  },
+  {
+    "date": "2014-10-11",
+    "business": 570,
+    "private": 110,
+    "service": 20
+  },
+  {
+    "date": "2014-10-12",
+    "business": 560,
+    "private": 170
+  },
+  {
+    "date": "2014-10-13",
+    "business": 880,
+    "private": 180
+  },
+  {
+    "date": "2014-10-14",
+    "business": 840,
+    "private": 120,
+    "service": 40
+  },
+  {
+    "date": "2014-10-15",
+    "business": 930,
+    "private": 140,
+    "service": 20
+  },
+  {
+    "date": "2014-10-16",
+    "business": 930,
+    "private": 160
+  },
+  {
+    "date": "2014-10-17",
+    "business": 610,
+    "private": 140,
+    "service": 40
+  },
+  {
+    "date": "2014-10-18",
+    "business": 450,
+    "private": 190,
+    "service": 40
+  },
+  {
+    "date": "2014-10-19",
+    "business": 520,
+    "private": 130
+  },
+  {
+    "date": "2014-10-20",
+    "business": 930,
+    "private": 120,
+    "service": 20
+  },
+  {
+    "date": "2014-10-21",
+    "business": 960,
+    "private": 160,
+    "service": 20
+  },
+  {
+    "date": "2014-10-22",
+    "business": 860,
+    "private": 120,
+    "service": 20
+  },
+  {
+    "date": "2014-10-23",
+    "business": 1140,
+    "private": 60,
+    "service": 20
+  },
+  {
+    "date": "2014-10-24",
+    "business": 710,
+    "private": 110,
+    "service": 40
+  },
+  {
+    "date": "2014-10-25",
+    "business": 530,
+    "private": 150,
+    "service": 40
+  },
+  {
+    "date": "2014-10-26",
+    "business": 540,
+    "private": 160
+  },
+  {
+    "date": "2014-10-27",
+    "business": 840,
+    "private": 60
+  },
+  {
+    "0": 2,
+    "date": "2014-10-28",
+    "business": 800,
+    "private": 120
+  },
+  {
+    "date": "2014-10-29",
+    "business": 900,
+    "private": 130
+  },
+  {
+    "date": "2014-10-30",
+    "business": 870,
+    "private": 130
+  },
+  {
+    "0": 1,
+    "date": "2014-10-31",
+    "business": 550,
+    "private": 80
+  },
+  {
+    "0": 1,
+    "date": "2014-11-01",
+    "business": 360,
+    "private": 110,
+    "service": 60
+  },
+  {
+    "0": 1,
+    "date": "2014-11-02",
+    "business": 350,
+    "private": 60
+  },
+  {
+    "0": 1,
+    "date": "2014-11-03",
+    "business": 790,
+    "private": 50
+  },
+  {
+    "date": "2014-11-04",
+    "business": 850,
+    "private": 50
+  },
+  {
+    "date": "2014-11-05",
+    "business": 660,
+    "private": 120
+  },
+  {
+    "date": "2014-11-06",
+    "business": 720,
+    "private": 50
+  },
+  {
+    "date": "2014-11-07",
+    "business": 580,
+    "private": 80,
+    "service": 40
+  },
+  {
+    "date": "2014-11-08",
+    "business": 380,
+    "private": 60,
+    "service": 40
+  },
+  {
+    "date": "2014-11-09",
+    "business": 320,
+    "private": 40
+  },
+  {
+    "date": "2014-11-10",
+    "business": 590,
+    "private": 100
+  },
+  {
+    "date": "2014-11-11",
+    "business": 730,
+    "private": 170
+  },
+  {
+    "date": "2014-11-12",
+    "business": 900,
+    "private": 120
+  },
+  {
+    "date": "2014-11-13",
+    "business": 750,
+    "private": 90
+  },
+  {
+    "date": "2014-11-14",
+    "business": 580,
+    "private": 260,
+    "service": 40
+  },
+  {
+    "date": "2014-11-15",
+    "business": 330,
+    "private": 70,
+    "service": 40
+  },
+  {
+    "date": "2014-11-16",
+    "business": 330,
+    "private": 140
+  },
+  {
+    "date": "2014-11-17",
+    "business": 760,
+    "private": 160
+  },
+  {
+    "date": "2014-11-18",
+    "business": 740,
+    "private": 90
+  },
+  {
+    "date": "2014-11-19",
+    "business": 790,
+    "private": 60
+  },
+  {
+    "date": "2014-11-20",
+    "business": 690,
+    "private": 160,
+    "service": 20
+  },
+  {
+    "date": "2014-11-21",
+    "business": 520,
+    "private": 100,
+    "service": 40
+  },
+  {
+    "date": "2014-11-22",
+    "business": 230,
+    "private": 60,
+    "service": 40
+  },
+  {
+    "date": "2014-11-23",
+    "business": 280,
+    "private": 40
+  },
+  {
+    "date": "2014-11-24",
+    "business": 710,
+    "private": 80
+  },
+  {
+    "date": "2014-11-25",
+    "business": 800,
+    "private": 80
+  },
+  {
+    "date": "2014-11-26",
+    "business": 900,
+    "private": 120
+  },
+  {
+    "date": "2014-11-27",
+    "business": 810,
+    "private": 90
+  },
+  {
+    "date": "2014-11-28",
+    "business": 660,
+    "private": 50,
+    "service": 60
+  },
+  {
+    "date": "2014-11-29",
+    "business": 350,
+    "private": 30,
+    "service": 20
+  },
+  {
+    "date": "2014-11-30",
+    "business": 320,
+    "private": 60
+  },
+  {
+    "date": "2014-12-01",
+    "business": 870,
+    "private": 70
+  },
+  {
+    "date": "2014-12-02",
+    "business": 830,
+    "private": 50
+  },
+  {
+    "date": "2014-12-03",
+    "business": 840,
+    "private": 30
+  },
+  {
+    "date": "2014-12-04",
+    "business": 660,
+    "private": 80
+  },
+  {
+    "date": "2014-12-05",
+    "business": 440,
+    "private": 40,
+    "service": 40
+  },
+  {
+    "date": "2014-12-06",
+    "business": 200,
+    "private": 50,
+    "service": 40
+  },
+  {
+    "date": "2014-12-07",
+    "business": 200,
+    "private": 50
+  },
+  {
+    "date": "2014-12-08",
+    "business": 780,
+    "private": 40
+  },
+  {
+    "date": "2014-12-09",
+    "business": 760,
+    "private": 50
+  },
+  {
+    "date": "2014-12-10",
+    "business": 740,
+    "private": 60
+  },
+  {
+    "date": "2014-12-11",
+    "business": 780,
+    "private": 40
+  },
+  {
+    "date": "2014-12-12",
+    "business": 520,
+    "private": 50,
+    "service": 60
+  },
+  {
+    "date": "2014-12-13",
+    "business": 290,
+    "private": 60,
+    "service": 40
+  },
+  {
+    "date": "2014-12-14",
+    "business": 320,
+    "private": 40
+  },
+  {
+    "date": "2014-12-15",
+    "business": 740,
+    "private": 70
+  },
+  {
+    "date": "2014-12-16",
+    "business": 800,
+    "private": 50
+  },
+  {
+    "date": "2014-12-17",
+    "business": 810,
+    "private": 20
+  },
+  {
+    "date": "2014-12-18",
+    "business": 670,
+    "private": 30
+  },
+  {
+    "date": "2014-12-19",
+    "business": 590,
+    "private": 80
+  },
+  {
+    "date": "2014-12-20",
+    "business": 300,
+    "private": 30,
+    "service": 80
+  },
+  {
+    "date": "2014-12-21",
+    "business": 330,
+    "private": 20
+  },
+  {
+    "date": "2014-12-22",
+    "business": 490,
+    "private": 40
+  },
+  {
+    "date": "2014-12-23",
+    "business": 410,
+    "private": 40
+  },
+  {
+    "date": "2014-12-24",
+    "business": 290,
+    "private": 30
+  },
+  {
+    "date": "2014-12-25",
+    "business": 250,
+    "private": 40
+  },
+  {
+    "date": "2014-12-26",
+    "business": 250,
+    "private": 40
+  },
+  {
+    "date": "2014-12-27",
+    "business": 270,
+    "service": 80,
+    "private": 30
+  },
+  {
+    "date": "2014-12-28",
+    "business": 200,
+    "private": 50
+  },
+  {
+    "date": "2014-12-29",
+    "business": 290,
+    "private": 40
+  },
+  {
+    "date": "2014-12-30",
+    "business": 310,
+    "private": 30
+  },
+  {
+    "date": "2014-12-31",
+    "business": 260,
+    "private": 30
+  },
+  {
+    "date": "2015-01-01",
+    "business": 240,
+    "private": 20
+  },
+  {
+    "date": "2015-01-02",
+    "business": 270,
+    "private": 20,
+    "service": 60
+  },
+  {
+    "date": "2015-01-03",
+    "business": 270,
+    "private": 20
+  },
+  {
+    "date": "2015-01-04",
+    "business": 260,
+    "private": 20
+  },
+  {
+    "date": "2015-01-05",
+    "business": 430,
+    "private": 10
+  },
+  {
+    "date": "2015-01-06",
+    "business": 490,
+    "private": 10
+  },
+  {
+    "date": "2015-01-07",
+    "business": 530,
+    "private": 40
+  },
+  {
+    "date": "2015-01-08",
+    "business": 660,
+    "private": 30
+  },
+  {
+    "date": "2015-01-09",
+    "business": 580,
+    "private": 90,
+    "service": 60
+  },
+  {
+    "date": "2015-01-10",
+    "business": 340,
+    "private": 90
+  },
+  {
+    "date": "2015-01-11",
+    "business": 290,
+    "private": 110
+  },
+  {
+    "date": "2015-01-12",
+    "business": 680,
+    "private": 50
+  },
+  {
+    "date": "2014-05-17",
+    "private": 30,
+    "business": 460,
+    "service": 80
+  },
+  {
+    "date": "2014-05-18",
+    "private": 40,
+    "business": 460
+  },
+  {
+    "date": "2014-05-06",
+    "private": 30,
+    "business": 790
+  },
+  {
+    "date": "2014-05-04",
+    "private": 30,
+    "business": 330
+  },
+  {
+    "date": "2014-05-03",
+    "business": 330,
+    "private": 20
+  },
+  {
+    "date": "2014-05-02",
+    "business": 450,
+    "private": 20
+  },
+  {
+    "date": "2014-04-05",
+    "business": 410,
+    "private": 10,
+    "service": 80
+  },
+  {
+    "date": "2014-04-06",
+    "business": 390,
+    "private": 20
+  },
+  {
+    "date": "2014-04-16",
+    "business": 860,
+    "private": 40,
+    "service": 20
+  },
+  {
+    "date": "2014-04-09",
+    "business": 840,
+    "private": 20
+  },
+  {
+    "date": "2014-04-08",
+    "business": 800,
+    "private": 30
+  },
+  {
+    "date": "2014-03-10",
+    "business": 650,
+    "private": 30,
+    "service": 20
+  },
+  {
+    "date": "2014-03-29",
+    "business": 370,
+    "private": 20,
+    "service": 40
+  },
+  {
+    "date": "2014-03-30",
+    "business": 360,
+    "private": 20
+  },
+  {
+    "date": "2014-03-31",
+    "business": 760,
+    "private": 60
+  },
+  {
+    "date": "2014-04-01",
+    "private": 50,
+    "business": 780
+  },
+  {
+    "date": "2014-04-03",
+    "business": 690,
+    "private": 20
+  },
+  {
+    "date": "2014-03-18",
+    "business": 750,
+    "private": 30
+  },
+  {
+    "date": "2014-03-06",
+    "business": 590,
+    "private": 40
+  },
+  {
+    "date": "2014-02-28",
+    "private": 30,
+    "business": 500
+  },
+  {
+    "date": "2014-02-10",
+    "business": 480,
+    "private": 30
+  },
+  {
+    "date": "2014-02-25",
+    "business": 660,
+    "private": 50
+  },
+  {
+    "date": "2014-02-19",
+    "business": 580,
+    "private": 40
+  },
+  {
+    "date": "2014-02-12",
+    "business": 560,
+    "private": 40
+  },
+  {
+    "date": "2014-02-11",
+    "business": 750,
+    "private": 50
+  },
+  {
+    "date": "2014-02-03",
+    "private": 40,
+    "business": 480
+  },
+  {
+    "date": "2014-02-04",
+    "private": 40,
+    "business": 610
+  },
+  {
+    "date": "2014-02-05",
+    "private": 50,
+    "business": 600
+  },
+  {
+    "date": "2014-02-06",
+    "private": 50,
+    "business": 600
+  },
+  {
+    "date": "2014-02-07",
+    "business": 480,
+    "private": 10
+  },
+  {
+    "date": "2014-02-08",
+    "business": 190,
+    "private": 10
+  },
+  {
+    "date": "2014-02-09",
+    "business": 180,
+    "private": 10
+  },
+  {
+    "date": "2014-02-01",
+    "private": 40,
+    "business": 240
+  },
+  {
+    "date": "2014-02-02",
+    "private": 50,
+    "business": 230
+  },
+  {
+    "date": "2014-01-30",
+    "private": 40,
+    "business": 680
+  },
+  {
+    "date": "2014-01-14",
+    "business": 550,
+    "private": 10
+  },
+  {
+    "date": "2014-01-20",
+    "private": 30,
+    "business": 530,
+    "service": 20
+  },
+  {
+    "date": "2014-01-17",
+    "business": 480,
+    "private": 10,
+    "service": 20
+  },
+  {
+    "date": "2014-01-19",
+    "business": 340,
+    "private": 10,
+    "service": 20
+  },
+  {
+    "date": "2014-01-11",
+    "business": 200,
+    "private": 10
+  },
+  {
+    "date": "2014-01-12",
+    "business": 190,
+    "private": 10
+  },
+  {
+    "date": "2014-01-13",
+    "business": 360,
+    "private": 40
+  },
+  {
+    "date": "2013-12-23",
+    "business": 280,
+    "private": 10
+  },
+  {
+    "date": "2013-12-24",
+    "business": 240,
+    "private": 10
+  },
+  {
+    "date": "2013-12-25",
+    "business": 240,
+    "private": 10
+  },
+  {
+    "date": "2013-12-26",
+    "business": 240,
+    "private": 10
+  },
+  {
+    "date": "2013-12-27",
+    "business": 260,
+    "private": 10
+  },
+  {
+    "date": "2013-12-29",
+    "business": 260,
+    "private": 10
+  },
+  {
+    "date": "2013-12-30",
+    "business": 260,
+    "private": 10
+  },
+  {
+    "date": "2013-12-31",
+    "business": 240,
+    "private": 10
+  },
+  {
+    "date": "2014-01-01",
+    "business": 240,
+    "private": 10
+  },
+  {
+    "date": "2013-12-13",
+    "business": 190,
+    "private": 20
+  },
+  {
+    "date": "2013-12-14",
+    "business": 140,
+    "private": 10
+  },
+  {
+    "date": "2013-12-15",
+    "business": 140,
+    "private": 10
+  },
+  {
+    "date": "2013-12-12",
+    "private": 50,
+    "business": 510
+  },
+  {
+    "date": "2013-11-30",
+    "private": 30,
+    "business": 190
+  },
+  {
+    "date": "2013-12-01",
+    "private": 30,
+    "business": 190
+  },
+  {
+    "date": "2013-11-25",
+    "private": 60,
+    "business": 350
+  },
+  {
+    "date": "2013-11-22",
+    "private": 50,
+    "business": 200
+  },
+  {
+    "date": "2013-11-23",
+    "private": 50,
+    "business": 180
+  },
+  {
+    "date": "2013-11-24",
+    "private": 50,
+    "business": 180
+  },
+  {
+    "date": "2013-11-16",
+    "private": 30,
+    "business": 190
+  },
+  {
+    "date": "2013-11-17",
+    "private": 30,
+    "business": 190
+  },
+  {
+    "date": "2013-11-14",
+    "private": 40,
+    "business": 480
+  },
+  {
+    "date": "2013-11-08",
+    "private": 60,
+    "business": 310
+  },
+  {
+    "date": "2013-11-09",
+    "private": 20,
+    "business": 80
+  },
+  {
+    "date": "2013-11-10",
+    "private": 20,
+    "business": 80
+  },
+  {
+    "date": "2013-11-04",
+    "private": 20,
+    "business": 410
+  },
+  {
+    "date": "2013-11-01",
+    "private": 20,
+    "business": 270
+  },
+  {
+    "date": "2013-11-02",
+    "private": 40,
+    "business": 190
+  },
+  {
+    "date": "2013-11-03",
+    "private": 40,
+    "business": 160
+  },
+  {
+    "date": "2013-10-19",
+    "business": 120,
+    "private": 30
+  },
+  {
+    "date": "2013-10-20",
+    "business": 120,
+    "private": 30
+  },
+  {
+    "date": "2013-10-10",
+    "private": 30,
+    "business": 130
+  },
+  {
+    "date": "2013-10-09",
+    "private": 40,
+    "business": 150
+  },
+  {
+    "date": "2013-10-08",
+    "private": 20,
+    "business": 230
+  },
+  {
+    "date": "2013-10-03",
+    "private": 40,
+    "business": 170
+  },
+  {
+    "date": "2013-09-18",
+    "business": 180,
+    "private": 10
+  },
+  {
+    "date": "2013-10-12",
+    "business": 120,
+    "private": 10
+  },
+  {
+    "date": "2013-10-13",
+    "business": 100,
+    "private": 10
+  },
+  {
+    "date": "2013-09-26",
+    "business": 200,
+    "private": 10
+  },
+  {
+    "date": "2013-09-28",
+    "business": 50,
+    "private": 10
+  },
+  {
+    "date": "2013-09-29",
+    "business": 50,
+    "private": 10
+  },
+  {
+    "date": "2013-09-24",
+    "business": 180,
+    "private": 20
+  },
+  {
+    "date": "2013-09-23",
+    "business": 100,
+    "private": 20
+  },
+  {
+    "date": "2013-09-10",
+    "business": 170
+  },
+  {
+    "date": "2013-09-06",
+    "business": 200
+  },
+  {
+    "date": "2013-08-19",
+    "business": 110
+  },
+  {
+    "date": "2013-08-06",
+    "business": 110
+  },
+  {
+    "date": "2013-08-13",
+    "business": 90
+  },
+  {
+    "date": "2013-08-16",
+    "business": 200
+  },
+  {
+    "date": "2013-08-17",
+    "business": 110
+  },
+  {
+    "date": "2013-08-18",
+    "business": 110
+  },
+  {
+    "date": "2013-08-02",
+    "business": 50,
+    "private": 10
+  },
+  {
+    "date": "2013-08-03",
+    "business": 40
+  },
+  {
+    "date": "2013-08-04",
+    "business": 40
+  },
+  {
+    "date": "2013-07-24",
+    "business": 60
+  },
+  {
+    "date": "2013-07-19",
+    "business": 90
+  },
+  {
+    "date": "2013-07-22",
+    "business": 90
+  },
+  {
+    "date": "2013-07-16",
+    "business": 120
+  },
+  {
+    "date": "2013-08-07",
+    "business": 60
+  },
+  {
+    "date": "2013-08-08",
+    "business": 60
+  },
+  {
+    "date": "2013-07-09",
+    "business": 240
+  },
+  {
+    "date": "2013-07-08",
+    "business": 200
+  },
+  {
+    "date": "2013-07-03",
+    "business": 220
+  },
+  {
+    "date": "2013-07-04",
+    "business": 160
+  },
+  {
+    "date": "2013-07-05",
+    "business": 130
+  },
+  {
+    "date": "2013-07-06",
+    "business": 70
+  },
+  {
+    "date": "2013-07-07",
+    "business": 70
+  },
+  {
+    "date": "2013-06-27",
+    "business": 240
+  },
+  {
+    "date": "2013-07-17",
+    "business": 150
+  },
+  {
+    "date": "2013-06-26",
+    "business": 70
+  },
+  {
+    "date": "2013-06-18",
+    "business": 100
+  },
+  {
+    "date": "2013-06-19",
+    "business": 110
+  },
+  {
+    "date": "2013-06-20",
+    "business": 140
+  },
+  {
+    "date": "2013-06-21",
+    "business": 120
+  },
+  {
+    "date": "2013-06-22",
+    "business": 30
+  },
+  {
+    "date": "2013-06-23",
+    "business": 30
+  },
+  {
+    "date": "2013-06-24",
+    "business": 120
+  },
+  {
+    "date": "2013-06-13",
+    "business": 50
+  },
+  {
+    "date": "2013-06-12",
+    "business": 50
+  },
+  {
+    "date": "2013-06-05",
+    "business": 90
+  },
+  {
+    "date": "2013-06-04",
+    "business": 50
+  },
+  {
+    "date": "2013-05-28",
+    "business": 70
+  },
+  {
+    "date": "2013-05-29",
+    "business": 50
+  },
+  {
+    "date": "2013-05-30",
+    "business": 50
+  },
+  {
+    "date": "2013-05-31",
+    "business": 50
+  },
+  {
+    "date": "2013-06-10",
+    "business": 40
+  },
+  {
+    "date": "2013-06-11",
+    "business": 50
+  },
+  {
+    "date": "2013-05-27",
+    "business": 60
+  },
+  {
+    "date": "2013-05-24",
+    "business": 80
+  },
+  {
+    "date": "2013-05-23",
+    "business": 60
+  },
+  {
+    "date": "2013-05-16",
+    "business": 20
+  },
+  {
+    "date": "2013-05-17",
+    "business": 10
+  },
+  {
+    "date": "2013-05-18",
+    "business": 10
+  },
+  {
+    "date": "2013-05-19",
+    "business": 10
+  },
+  {
+    "date": "2013-05-20",
+    "business": 10
+  },
+  {
+    "date": "2013-05-21",
+    "business": 10
+  },
+  {
+    "date": "2013-05-03",
+    "business": 10
+  },
+  {
+    "date": "2013-04-30",
+    "business": 20
+  },
+  {
+    "date": "2013-05-01",
+    "business": 20
+  },
+  {
+    "date": "2013-04-24",
+    "business": 20
+  },
+  {
+    "date": "2013-04-18",
+    "business": 10
+  },
+  {
+    "date": "2013-04-19",
+    "business": 20
+  },
+  {
+    "date": "2013-04-20",
+    "business": 10
+  },
+  {
+    "date": "2013-04-21",
+    "business": 10
+  },
+  {
+    "date": "2013-04-22",
+    "business": 20
+  },
+  {
+    "date": "2013-04-15",
+    "business": 10
+  },
+  {
+    "date": "2013-04-11",
+    "business": 10
+  },
+  {
+    "date": "2013-04-12",
+    "business": 20
+  },
+  {
+    "date": "2013-04-10",
+    "business": 30
+  },
+  {
+    "date": "2013-04-09",
+    "business": 30
+  },
+  {
+    "date": "2014-01-06",
+    "business": 190,
+    "private": 10
+  },
+  {
+    "date": "2014-01-03",
+    "business": 240,
+    "private": 20
+  },
+  {
+    "date": "2014-01-04",
+    "business": 190,
+    "private": 20
+  },
+  {
+    "date": "2014-01-05",
+    "business": 190,
+    "private": 20
+  },
+  {
+    "date": "2013-09-25",
+    "business": 120,
+    "private": 10
+  },
+  {
+    "date": "2013-09-20",
+    "business": 60,
+    "private": 20
+  },
+  {
+    "date": "2013-09-21",
+    "business": 50,
+    "private": 10
+  },
+  {
+    "date": "2013-09-22",
+    "business": 50,
+    "private": 20
+  },
+  {
+    "date": "2013-09-13",
+    "business": 60
+  },
+  {
+    "date": "2013-09-07",
+    "business": 130
+  },
+  {
+    "date": "2013-09-08",
+    "business": 120
+  },
+  {
+    "date": "2013-08-28",
+    "business": 160
+  },
+  {
+    "date": "2013-08-09",
+    "business": 50
+  },
+  {
+    "date": "2013-08-24",
+    "business": 70
+  },
+  {
+    "date": "2013-08-25",
+    "business": 70
+  },
+  {
+    "date": "2013-07-15",
+    "business": 140
+  },
+  {
+    "date": "2013-07-12",
+    "business": 80
+  },
+  {
+    "date": "2013-07-11",
+    "business": 200
+  },
+  {
+    "date": "2013-07-10",
+    "business": 140
+  },
+  {
+    "date": "2013-07-02",
+    "business": 120
+  },
+  {
+    "date": "2013-07-01",
+    "business": 170
+  },
+  {
+    "date": "2013-06-28",
+    "business": 140
+  },
+  {
+    "date": "2013-06-25",
+    "business": 170
+  },
+  {
+    "date": "2013-06-17",
+    "business": 60
+  },
+  {
+    "date": "2013-07-13",
+    "business": 50
+  },
+  {
+    "date": "2013-07-14",
+    "business": 50
+  },
+  {
+    "date": "2013-06-07",
+    "business": 70
+  },
+  {
+    "date": "2013-05-25",
+    "business": 50
+  },
+  {
+    "date": "2013-05-26",
+    "business": 50
+  },
+  {
+    "date": "2013-06-01",
+    "business": 40
+  },
+  {
+    "date": "2013-06-02",
+    "business": 40
+  },
+  {
+    "date": "2013-06-03",
+    "business": 40
+  },
+  {
+    "date": "2013-06-06",
+    "business": 30
+  },
+  {
+    "date": "2013-06-08",
+    "business": 30
+  },
+  {
+    "date": "2013-06-09",
+    "business": 30
+  },
+  {
+    "date": "2013-06-14",
+    "business": 40
+  },
+  {
+    "date": "2013-06-15",
+    "business": 40
+  },
+  {
+    "date": "2013-06-16",
+    "business": 40
+  },
+  {
+    "date": "2013-05-22",
+    "business": 30
+  },
+  {
+    "date": "2013-02-27",
+    "business": 10
+  },
+  {
+    "date": "2013-03-20",
+    "business": 50
+  },
+  {
+    "date": "2013-03-19",
+    "business": 20
+  },
+  {
+    "date": "2013-06-29",
+    "business": 20
+  },
+  {
+    "date": "2013-06-30",
+    "business": 20
+  },
+  {
+    "date": "2013-05-13",
+    "business": 10
+  },
+  {
+    "date": "2013-05-14",
+    "business": 40
+  },
+  {
+    "date": "2013-05-07",
+    "business": 50
+  },
+  {
+    "date": "2013-05-06",
+    "business": 20
+  },
+  {
+    "date": "2013-04-26",
+    "business": 10
+  },
+  {
+    "date": "2013-04-27",
+    "business": 10
+  },
+  {
+    "date": "2013-04-28",
+    "business": 10
+  },
+  {
+    "date": "2013-04-29",
+    "business": 10
+  },
+  {
+    "date": "2013-04-23",
+    "business": 10
+  },
+  {
+    "date": "2013-04-16",
+    "business": 30
+  },
+  {
+    "date": "2013-04-05",
+    "business": 10
+  },
+  {
+    "date": "2013-03-27",
+    "business": 10
+  },
+  {
+    "date": "2013-03-25",
+    "business": 10
+  },
+  {
+    "date": "2013-03-21",
+    "business": 30
+  },
+  {
+    "date": "2013-03-12",
+    "business": 10
+  },
+  {
+    "date": "2013-03-08",
+    "business": 10
+  },
+  {
+    "date": "2013-03-06",
+    "business": 10
+  },
+  {
+    "date": "2013-02-26",
+    "business": 10
+  },
+  {
+    "date": "2013-09-14",
+    "business": 20
+  },
+  {
+    "date": "2013-09-15",
+    "business": 20
+  },
+  {
+    "date": "2013-07-20",
+    "business": 20
+  },
+  {
+    "date": "2013-07-21",
+    "business": 20
+  },
+  {
+    "date": "2013-07-26",
+    "business": 20
+  },
+  {
+    "date": "2013-07-27",
+    "business": 20
+  },
+  {
+    "date": "2013-07-28",
+    "business": 20
+  },
+  {
+    "date": "2013-08-10",
+    "business": 20
+  },
+  {
+    "date": "2013-08-11",
+    "business": 20
+  },
+  {
+    "date": "2013-05-15",
+    "business": 30
+  },
+  {
+    "date": "2013-05-10",
+    "business": 10
+  },
+  {
+    "date": "2016-04-13",
+    "business": 3190,
+    "private": 370,
+    "service": 100
+  },
+  {
+    "date": "2016-05-06",
+    "business": 1530,
+    "service": 190,
+    "private": 290
+  },
+  {
+    "date": "2015-04-28",
+    "private": 70,
+    "service": 310,
+    "business": 1180
+  },
+  {
+    "date": "2015-03-08",
+    "private": 90,
+    "business": 500
+  },
+  {
+    "date": "2015-01-13",
+    "business": 880,
+    "private": 40
+  },
+  {
+    "date": "2015-01-14",
+    "business": 730,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2015-01-15",
+    "business": 880,
+    "private": 100
+  },
+  {
+    "date": "2015-01-16",
+    "business": 740,
+    "private": 90,
+    "service": 60
+  },
+  {
+    "date": "2015-01-17",
+    "business": 410,
+    "private": 80,
+    "service": 20
+  },
+  {
+    "date": "2015-01-18",
+    "business": 380,
+    "private": 70
+  },
+  {
+    "date": "2015-01-19",
+    "business": 820,
+    "private": 90
+  },
+  {
+    "date": "2015-01-20",
+    "business": 970,
+    "private": 140
+  },
+  {
+    "date": "2015-01-21",
+    "business": 930,
+    "private": 40,
+    "service": 20
+  },
+  {
+    "date": "2015-01-22",
+    "business": 950,
+    "private": 60
+  },
+  {
+    "date": "2015-01-23",
+    "business": 630,
+    "private": 70,
+    "service": 60
+  },
+  {
+    "date": "2015-01-24",
+    "business": 330,
+    "private": 90,
+    "service": 20
+  },
+  {
+    "date": "2015-01-25",
+    "business": 310,
+    "private": 80
+  },
+  {
+    "date": "2015-01-26",
+    "business": 780,
+    "private": 110
+  },
+  {
+    "date": "2015-01-27",
+    "business": 850,
+    "private": 40
+  },
+  {
+    "date": "2015-01-28",
+    "business": 840,
+    "private": 50
+  },
+  {
+    "date": "2015-01-29",
+    "business": 820,
+    "private": 90
+  },
+  {
+    "date": "2015-01-30",
+    "business": 660,
+    "private": 80,
+    "service": 40
+  },
+  {
+    "date": "2015-01-31",
+    "business": 320,
+    "private": 110,
+    "service": 40
+  },
+  {
+    "date": "2015-02-01",
+    "business": 260,
+    "private": 130
+  },
+  {
+    "date": "2015-02-02",
+    "business": 660,
+    "private": 80
+  },
+  {
+    "date": "2015-02-03",
+    "business": 920,
+    "private": 40
+  },
+  {
+    "date": "2015-02-04",
+    "business": 1020,
+    "private": 60
+  },
+  {
+    "date": "2015-02-05",
+    "business": 980,
+    "private": 90
+  },
+  {
+    "date": "2015-02-06",
+    "business": 680,
+    "private": 110,
+    "service": 40
+  },
+  {
+    "date": "2015-02-07",
+    "business": 360,
+    "private": 80,
+    "service": 40
+  },
+  {
+    "date": "2015-02-08",
+    "business": 370,
+    "private": 100
+  },
+  {
+    "date": "2015-02-09",
+    "business": 840,
+    "private": 120
+  },
+  {
+    "date": "2015-02-10",
+    "business": 880,
+    "private": 50
+  },
+  {
+    "date": "2015-02-11",
+    "business": 980,
+    "private": 120
+  },
+  {
+    "date": "2015-02-12",
+    "business": 890,
+    "private": 200
+  },
+  {
+    "date": "2015-02-13",
+    "business": 550,
+    "private": 180,
+    "service": 80
+  },
+  {
+    "date": "2015-02-14",
+    "business": 330,
+    "private": 50
+  },
+  {
+    "date": "2015-02-15",
+    "business": 280,
+    "private": 90
+  },
+  {
+    "date": "2015-04-27",
+    "business": 990,
+    "private": 120
+  },
+  {
+    "date": "2015-10-29",
+    "business": 2020,
+    "private": 180,
+    "service": 100
+  },
+  {
+    "date": "2016-04-18",
+    "business": 2760,
+    "service": 240,
+    "private": 360
+  },
+  {
+    "date": "2016-04-19",
+    "business": 3100,
+    "private": 280,
+    "service": 110
+  },
+  {
+    "date": "2016-07-18",
+    "business": 2460,
+    "private": 290,
+    "service": 180
+  },
+  {
+    "date": "2016-07-19",
+    "business": 2450,
+    "service": 130,
+    "private": 290
+  },
+  {
+    "date": "2016-07-20",
+    "business": 2780,
+    "private": 240,
+    "service": 110
+  },
+  {
+    "date": "2016-07-21",
+    "business": 2550,
+    "private": 230,
+    "service": 190
+  },
+  {
+    "date": "2016-07-22",
+    "business": 1810,
+    "private": 270,
+    "service": 130
+  },
+  {
+    "date": "2016-07-23",
+    "business": 810,
+    "private": 190,
+    "service": 40
+  },
+  {
+    "date": "2016-07-24",
+    "business": 500,
+    "private": 180,
+    "service": 30
+  },
+  {
+    "date": "2016-07-25",
+    "business": 2030,
+    "private": 230,
+    "service": 110
+  },
+  {
+    "date": "2015-04-26",
+    "business": 700,
+    "private": 100
+  },
+  {
+    "date": "2016-04-12",
+    "business": 3050,
+    "private": 250,
+    "service": 50
+  },
+  {
+    "date": "2016-04-07",
+    "business": 2740,
+    "private": 310,
+    "service": 170
+  },
+  {
+    "date": "2016-04-15",
+    "business": 2350,
+    "private": 360,
+    "service": 130
+  },
+  {
+    "date": "2016-04-16",
+    "business": 1230,
+    "private": 220,
+    "service": 30
+  },
+  {
+    "date": "2016-04-17",
+    "business": 1060,
+    "private": 190,
+    "service": 30
+  },
+  {
+    "date": "2015-04-25",
+    "private": 120,
+    "business": 720
+  },
+  {
+    "date": "2016-02-29",
+    "business": 2080,
+    "private": 270,
+    "service": 60
+  },
+  {
+    "date": "2016-04-06",
+    "business": 2920,
+    "service": 170,
+    "private": 290
+  },
+  {
+    "date": "2015-03-09",
+    "business": 980,
+    "private": 60,
+    "service": 110
+  },
+  {
+    "date": "2015-03-10",
+    "business": 990,
+    "private": 110,
+    "service": 140
+  },
+  {
+    "date": "2015-03-17",
+    "service": 150,
+    "business": 960,
+    "private": 130
+  },
+  {
+    "date": "2015-02-25",
+    "business": 910,
+    "private": 60
+  },
+  {
+    "date": "2015-03-05",
+    "business": 970,
+    "private": 60
+  },
+  {
+    "date": "2015-02-26",
+    "business": 890,
+    "private": 100
+  },
+  {
+    "date": "2016-04-23",
+    "business": 1130,
+    "service": 70,
+    "private": 190
+  },
+  {
+    "date": "2015-02-27",
+    "business": 720,
+    "private": 110,
+    "service": 60
+  },
+  {
+    "date": "2015-02-17",
+    "business": 710,
+    "private": 110
+  },
+  {
+    "date": "2015-04-21",
+    "service": 60,
+    "business": 1260,
+    "private": 110
+  },
+  {
+    "date": "2015-03-02",
+    "business": 880,
+    "private": 180
+  },
+  {
+    "date": "2015-03-03",
+    "business": 1010,
+    "private": 130
+  },
+  {
+    "date": "2015-03-04",
+    "business": 910,
+    "private": 50,
+    "service": 10
+  },
+  {
+    "date": "2015-06-27",
+    "business": 580,
+    "private": 80,
+    "service": 110
+  },
+  {
+    "date": "2015-02-16",
+    "business": 510,
+    "private": 100
+  },
+  {
+    "date": "2015-03-11",
+    "business": 880,
+    "private": 60,
+    "service": 30
+  },
+  {
+    "date": "2015-03-13",
+    "business": 670,
+    "private": 80,
+    "service": 110
+  },
+  {
+    "date": "2015-03-14",
+    "business": 460,
+    "private": 100,
+    "service": 80
+  },
+  {
+    "date": "2015-03-15",
+    "business": 370,
+    "private": 80,
+    "service": 40
+  },
+  {
+    "date": "2015-03-16",
+    "business": 870,
+    "service": 40,
+    "private": 80
+  },
+  {
+    "date": "2015-02-18",
+    "business": 840,
+    "private": 40
+  },
+  {
+    "date": "2015-02-19",
+    "business": 970,
+    "private": 80,
+    "service": 20
+  },
+  {
+    "date": "2015-02-20",
+    "business": 710,
+    "private": 50
+  },
+  {
+    "date": "2015-02-24",
+    "business": 900,
+    "private": 80
+  },
+  {
+    "date": "2015-06-15",
+    "business": 1210,
+    "private": 200,
+    "service": 200
+  },
+  {
+    "date": "2016-05-12",
+    "business": 2840,
+    "service": 170,
+    "private": 760
+  },
+  {
+    "date": "2016-05-13",
+    "business": 2300,
+    "private": 320,
+    "service": 180
+  },
+  {
+    "date": "2016-05-14",
+    "business": 970,
+    "service": 100,
+    "private": 160
+  },
+  {
+    "date": "2016-05-15",
+    "business": 750,
+    "service": 100,
+    "private": 170
+  },
+  {
+    "date": "2016-05-16",
+    "business": 820,
+    "private": 180,
+    "service": 100
+  },
+  {
+    "date": "2015-09-09",
+    "business": 1470,
+    "service": 90,
+    "private": 130
+  },
+  {
+    "date": "2015-09-10",
+    "business": 1300,
+    "service": 100,
+    "private": 210
+  },
+  {
+    "date": "2015-04-22",
+    "service": 110,
+    "business": 1130,
+    "private": 180
+  },
+  {
+    "date": "2015-02-21",
+    "business": 410,
+    "private": 40,
+    "service": 80
+  },
+  {
+    "date": "2015-02-22",
+    "business": 340,
+    "private": 50
+  },
+  {
+    "date": "2015-02-28",
+    "business": 390,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2015-03-01",
+    "business": 380,
+    "private": 100
+  },
+  {
+    "date": "2016-04-04",
+    "business": 2200,
+    "private": 250,
+    "service": 130
+  },
+  {
+    "date": "2015-03-12",
+    "business": 870,
+    "service": 20,
+    "private": 120
+  },
+  {
+    "date": "2015-09-02",
+    "business": 1330,
+    "private": 220,
+    "service": 90
+  },
+  {
+    "date": "2015-02-23",
+    "business": 810,
+    "private": 80
+  },
+  {
+    "date": "2015-03-06",
+    "business": 790,
+    "private": 70,
+    "service": 90
+  },
+  {
+    "date": "2015-08-17",
+    "business": 880,
+    "service": 190,
+    "private": 110
+  },
+  {
+    "date": "2015-08-18",
+    "business": 1180,
+    "service": 190,
+    "private": 90
+  },
+  {
+    "date": "2015-08-19",
+    "business": 1160,
+    "service": 250,
+    "private": 130
+  },
+  {
+    "date": "2016-06-22",
+    "business": 3350,
+    "private": 210,
+    "service": 150
+  },
+  {
+    "date": "2016-06-23",
+    "business": 3190,
+    "private": 340,
+    "service": 100
+  },
+  {
+    "date": "2016-06-24",
+    "business": 2660,
+    "private": 350,
+    "service": 120
+  },
+  {
+    "date": "2015-03-19",
+    "business": 940,
+    "private": 60
+  },
+  {
+    "date": "2015-04-30",
+    "service": 40,
+    "business": 1140,
+    "private": 80
+  },
+  {
+    "date": "2015-03-07",
+    "business": 500,
+    "private": 80,
+    "service": 40
+  },
+  {
+    "date": "2015-08-12",
+    "business": 1170,
+    "service": 50,
+    "private": 80
+  },
+  {
+    "date": "2015-08-13",
+    "business": 1030,
+    "service": 80,
+    "private": 150
+  },
+  {
+    "date": "2015-05-23",
+    "business": 850,
+    "private": 120,
+    "service": 90
+  },
+  {
+    "date": "2015-11-04",
+    "private": 160,
+    "business": 1910,
+    "service": 150
+  },
+  {
+    "date": "2016-04-25",
+    "business": 2610,
+    "service": 160,
+    "private": 310
+  },
+  {
+    "date": "2015-04-07",
+    "business": 1090,
+    "service": 10,
+    "private": 120
+  },
+  {
+    "date": "2015-04-05",
+    "private": 160,
+    "business": 480,
+    "service": 10
+  },
+  {
+    "date": "2015-05-20",
+    "private": 120,
+    "business": 1290,
+    "service": 720
+  },
+  {
+    "date": "2015-05-02",
+    "private": 100,
+    "business": 670,
+    "service": 80
+  },
+  {
+    "date": "2015-04-24",
+    "private": 110,
+    "business": 1080,
+    "service": 100
+  },
+  {
+    "date": "2015-04-14",
+    "service": 260,
+    "business": 1300,
+    "private": 100
+  },
+  {
+    "date": "2015-04-23",
+    "private": 80,
+    "business": 1200
+  },
+  {
+    "date": "2016-04-05",
+    "business": 2750,
+    "private": 230,
+    "service": 250
+  },
+  {
+    "date": "2016-05-19",
+    "business": 2550,
+    "service": 110,
+    "private": 250
+  },
+  {
+    "date": "2016-05-20",
+    "business": 2160,
+    "service": 140,
+    "private": 340
+  },
+  {
+    "date": "2015-08-25",
+    "business": 1380,
+    "service": 150,
+    "private": 90
+  },
+  {
+    "date": "2015-08-26",
+    "business": 1370,
+    "service": 170,
+    "private": 70
+  },
+  {
+    "date": "2016-06-09",
+    "private": 160,
+    "business": 3120,
+    "service": 150
+  },
+  {
+    "date": "2015-09-14",
+    "business": 1340,
+    "service": 120,
+    "private": 110
+  },
+  {
+    "date": "2016-06-10",
+    "private": 250,
+    "business": 2510,
+    "service": 120
+  },
+  {
+    "date": "2016-06-11",
+    "private": 150,
+    "business": 1170,
+    "service": 170
+  },
+  {
+    "date": "2016-06-12",
+    "private": 150,
+    "business": 1030,
+    "service": 50
+  },
+  {
+    "date": "2015-03-25",
+    "service": 170,
+    "business": 1010,
+    "private": 90
+  },
+  {
+    "date": "2015-07-30",
+    "business": 1000,
+    "service": 100,
+    "private": 340
+  },
+  {
+    "date": "2016-05-02",
+    "business": 2320,
+    "service": 170,
+    "private": 160
+  },
+  {
+    "date": "2016-05-03",
+    "business": 2730,
+    "service": 190,
+    "private": 140
+  },
+  {
+    "date": "2016-05-23",
+    "business": 2620,
+    "service": 200,
+    "private": 320
+  },
+  {
+    "date": "2016-05-24",
+    "business": 2870,
+    "service": 150,
+    "private": 240
+  },
+  {
+    "date": "2016-05-25",
+    "business": 2720,
+    "service": 150,
+    "private": 250
+  },
+  {
+    "date": "2016-05-26",
+    "business": 1500,
+    "service": 150,
+    "private": 180
+  },
+  {
+    "date": "2015-08-20",
+    "business": 1060,
+    "service": 410,
+    "private": 120
+  },
+  {
+    "date": "2016-04-20",
+    "business": 2970,
+    "service": 160,
+    "private": 210
+  },
+  {
+    "date": "2016-04-21",
+    "business": 3010,
+    "service": 210,
+    "private": 270
+  },
+  {
+    "date": "2016-05-10",
+    "business": 2880,
+    "service": 110,
+    "private": 210
+  },
+  {
+    "date": "2016-04-14",
+    "service": 90,
+    "business": 2700,
+    "private": 400
+  },
+  {
+    "date": "2015-08-14",
+    "business": 970,
+    "service": 150,
+    "private": 130
+  },
+  {
+    "date": "2016-04-11",
+    "business": 2590,
+    "private": 460,
+    "service": 150
+  },
+  {
+    "date": "2015-04-15",
+    "service": 200,
+    "business": 1270,
+    "private": 90
+  },
+  {
+    "date": "2016-04-08",
+    "business": 2440,
+    "private": 310,
+    "service": 170
+  },
+  {
+    "date": "2016-04-09",
+    "business": 1500,
+    "private": 200,
+    "service": 50
+  },
+  {
+    "date": "2016-04-10",
+    "business": 1240,
+    "private": 210,
+    "service": 40
+  },
+  {
+    "date": "2015-09-03",
+    "business": 1250,
+    "service": 90,
+    "private": 130
+  },
+  {
+    "date": "2016-05-27",
+    "business": 1760,
+    "service": 190,
+    "private": 270
+  },
+  {
+    "date": "2016-05-11",
+    "business": 3110,
+    "service": 150,
+    "private": 370
+  },
+  {
+    "date": "2016-03-30",
+    "business": 2580,
+    "private": 270,
+    "service": 70
+  },
+  {
+    "date": "2016-04-22",
+    "business": 2240,
+    "service": 180,
+    "private": 390
+  },
+  {
+    "date": "2016-05-30",
+    "business": 2360,
+    "service": 110,
+    "private": 250
+  },
+  {
+    "date": "2015-08-05",
+    "business": 810,
+    "service": 90,
+    "private": 80
+  },
+  {
+    "date": "2015-08-06",
+    "business": 850,
+    "service": 100,
+    "private": 200
+  },
+  {
+    "date": "2016-05-04",
+    "business": 2490,
+    "service": 270,
+    "private": 240
+  },
+  {
+    "date": "2016-05-05",
+    "business": 960,
+    "service": 100,
+    "private": 200
+  },
+  {
+    "date": "2015-04-10",
+    "service": 170,
+    "business": 820,
+    "private": 170
+  },
+  {
+    "date": "2015-08-24",
+    "business": 1130,
+    "service": 120,
+    "private": 50
+  },
+  {
+    "date": "2016-05-17",
+    "business": 2380,
+    "service": 190,
+    "private": 190
+  },
+  {
+    "date": "2016-05-18",
+    "business": 2950,
+    "service": 130,
+    "private": 170
+  },
+  {
+    "date": "2016-03-23",
+    "business": 2470,
+    "service": 140,
+    "private": 210
+  },
+  {
+    "date": "2016-06-13",
+    "private": 160,
+    "business": 3040,
+    "service": 140
+  },
+  {
+    "date": "2016-06-03",
+    "private": 220,
+    "business": 2360,
+    "service": 140
+  },
+  {
+    "date": "2016-06-04",
+    "private": 170,
+    "business": 1250,
+    "service": 70
+  },
+  {
+    "date": "2016-06-05",
+    "private": 170,
+    "business": 1050,
+    "service": 50
+  },
+  {
+    "date": "2016-04-28",
+    "business": 2970,
+    "service": 180,
+    "private": 200
+  },
+  {
+    "date": "2016-06-20",
+    "private": 180,
+    "business": 2920,
+    "service": 230
+  },
+  {
+    "date": "2016-06-21",
+    "private": 240,
+    "business": 3320,
+    "service": 120
+  },
+  {
+    "date": "2015-09-08",
+    "business": 1580,
+    "service": 80,
+    "private": 130
+  },
+  {
+    "date": "2016-07-15",
+    "business": 2110,
+    "private": 280,
+    "service": 120
+  },
+  {
+    "date": "2015-08-11",
+    "business": 1130,
+    "service": 50,
+    "private": 100
+  },
+  {
+    "date": "2016-06-17",
+    "business": 2360,
+    "service": 180,
+    "private": 220
+  },
+  {
+    "date": "2015-07-01",
+    "business": 1250,
+    "service": 120,
+    "private": 110
+  },
+  {
+    "date": "2016-07-08",
+    "private": 220,
+    "business": 2740,
+    "service": 160
+  },
+  {
+    "date": "2016-07-09",
+    "private": 170,
+    "business": 1160,
+    "service": 100
+  },
+  {
+    "date": "2016-07-10",
+    "private": 160,
+    "business": 910,
+    "service": 40
+  },
+  {
+    "date": "2015-05-21",
+    "business": 1310,
+    "service": 90,
+    "private": 150
+  },
+  {
+    "date": "2016-04-24",
+    "business": 1010,
+    "service": 40,
+    "private": 170
+  },
+  {
+    "date": "2016-04-26",
+    "business": 3080,
+    "service": 140,
+    "private": 260
+  },
+  {
+    "date": "2016-04-27",
+    "business": 2980,
+    "service": 220,
+    "private": 220
+  },
+  {
+    "date": "2016-04-29",
+    "business": 2250,
+    "service": 250,
+    "private": 240
+  },
+  {
+    "date": "2016-04-30",
+    "business": 1060,
+    "service": 120,
+    "private": 170
+  },
+  {
+    "date": "2016-05-01",
+    "business": 880,
+    "service": 100,
+    "private": 160
+  },
+  {
+    "date": "2015-03-18",
+    "business": 1000,
+    "private": 70,
+    "service": 20
+  },
+  {
+    "date": "2015-09-15",
+    "business": 1450,
+    "service": 110,
+    "private": 140
+  },
+  {
+    "date": "2015-09-16",
+    "business": 1750,
+    "service": 100,
+    "private": 180
+  },
+  {
+    "date": "2015-03-20",
+    "business": 900,
+    "private": 70,
+    "service": 40
+  },
+  {
+    "date": "2015-08-21",
+    "business": 910,
+    "service": 290,
+    "private": 70
+  },
+  {
+    "date": "2015-09-07",
+    "business": 1250,
+    "service": 150,
+    "private": 150
+  },
+  {
+    "date": "2015-03-26",
+    "business": 970,
+    "private": 120,
+    "service": 10
+  },
+  {
+    "date": "2015-04-13",
+    "business": 1020,
+    "private": 120
+  },
+  {
+    "date": "2015-05-28",
+    "business": 1460,
+    "private": 170,
+    "service": 20
+  },
+  {
+    "date": "2015-08-31",
+    "business": 1210,
+    "service": 90,
+    "private": 170
+  },
+  {
+    "date": "2015-09-29",
+    "business": 1830,
+    "private": 100,
+    "service": 120
+  },
+  {
+    "date": "2016-07-01",
+    "business": 2530,
+    "private": 240,
+    "service": 120
+  },
+  {
+    "date": "2015-10-30",
+    "private": 110,
+    "business": 1450,
+    "service": 120
+  },
+  {
+    "date": "2015-03-21",
+    "business": 570,
+    "private": 90,
+    "service": 40
+  },
+  {
+    "date": "2015-03-30",
+    "business": 910,
+    "service": 10,
+    "private": 120
+  },
+  {
+    "date": "2015-04-09",
+    "business": 1180,
+    "service": 10,
+    "private": 90
+  },
+  {
+    "date": "2015-03-23",
+    "business": 840,
+    "private": 40
+  },
+  {
+    "date": "2015-03-24",
+    "business": 970,
+    "private": 80
+  },
+  {
+    "date": "2015-03-27",
+    "business": 730,
+    "private": 80,
+    "service": 70
+  },
+  {
+    "date": "2015-03-28",
+    "business": 480,
+    "private": 110,
+    "service": 70
+  },
+  {
+    "date": "2015-04-29",
+    "service": 40,
+    "business": 1190,
+    "private": 40
+  },
+  {
+    "date": "2016-05-31",
+    "business": 2830,
+    "service": 120,
+    "private": 240
+  },
+  {
+    "date": "2016-06-01",
+    "business": 3070,
+    "service": 110,
+    "private": 270
+  },
+  {
+    "date": "2015-04-01",
+    "business": 1060,
+    "service": 10,
+    "private": 100
+  },
+  {
+    "date": "2015-09-01",
+    "business": 1290,
+    "service": 130,
+    "private": 110
+  },
+  {
+    "date": "2015-03-22",
+    "private": 90,
+    "business": 490
+  },
+  {
+    "date": "2015-03-29",
+    "business": 390,
+    "private": 130,
+    "service": 30
+  },
+  {
+    "date": "2015-06-11",
+    "business": 1240,
+    "private": 240,
+    "service": 60
+  },
+  {
+    "date": "2015-03-31",
+    "business": 970,
+    "service": 10,
+    "private": 80
+  },
+  {
+    "date": "2015-04-02",
+    "business": 860,
+    "service": 10,
+    "private": 120
+  },
+  {
+    "date": "2015-04-03",
+    "business": 510,
+    "service": 10,
+    "private": 90
+  },
+  {
+    "date": "2015-04-04",
+    "business": 430,
+    "service": 90,
+    "private": 90
+  },
+  {
+    "date": "2015-04-06",
+    "business": 490,
+    "service": 10,
+    "private": 120
+  },
+  {
+    "date": "2015-04-08",
+    "business": 1070,
+    "service": 10,
+    "private": 100
+  },
+  {
+    "date": "2015-04-11",
+    "business": 580,
+    "private": 150
+  },
+  {
+    "date": "2015-04-12",
+    "business": 640,
+    "private": 110
+  },
+  {
+    "date": "2015-05-19",
+    "business": 1290,
+    "service": 50,
+    "private": 50
+  },
+  {
+    "date": "2015-05-12",
+    "business": 1240,
+    "private": 300,
+    "service": 50
+  },
+  {
+    "date": "2016-07-12",
+    "business": 3030,
+    "private": 150,
+    "service": 170
+  },
+  {
+    "date": "2015-08-28",
+    "business": 920,
+    "service": 200,
+    "private": 160
+  },
+  {
+    "date": "2015-08-29",
+    "business": 560,
+    "service": 110,
+    "private": 80
+  },
+  {
+    "date": "2015-08-30",
+    "business": 560,
+    "service": 90,
+    "private": 90
+  },
+  {
+    "date": "2015-10-13",
+    "private": 200,
+    "business": 1950,
+    "service": 80
+  },
+  {
+    "date": "2015-10-15",
+    "business": 1620,
+    "private": 180,
+    "service": 100
+  },
+  {
+    "date": "2015-07-31",
+    "business": 710,
+    "service": 130,
+    "private": 150
+  },
+  {
+    "date": "2015-05-15",
+    "business": 630,
+    "service": 150,
+    "private": 120
+  },
+  {
+    "date": "2015-05-16",
+    "business": 540,
+    "service": 70,
+    "private": 130
+  },
+  {
+    "date": "2015-05-17",
+    "business": 630,
+    "service": 70,
+    "private": 50
+  },
+  {
+    "date": "2015-05-24",
+    "business": 720,
+    "private": 180,
+    "service": 50
+  },
+  {
+    "date": "2015-04-16",
+    "business": 1380,
+    "private": 110,
+    "service": 30
+  },
+  {
+    "date": "2015-04-17",
+    "business": 940,
+    "service": 170,
+    "private": 130
+  },
+  {
+    "date": "2015-04-18",
+    "business": 560,
+    "private": 110
+  },
+  {
+    "date": "2015-04-19",
+    "business": 580,
+    "private": 110
+  },
+  {
+    "date": "2015-04-20",
+    "business": 1240,
+    "private": 120
+  },
+  {
+    "date": "2015-05-01",
+    "business": 790,
+    "private": 120
+  },
+  {
+    "date": "2015-05-03",
+    "business": 640,
+    "private": 80
+  },
+  {
+    "date": "2015-05-04",
+    "business": 1120,
+    "private": 120,
+    "service": 30
+  },
+  {
+    "date": "2015-05-05",
+    "business": 1200,
+    "private": 80,
+    "service": 40
+  },
+  {
+    "date": "2015-05-06",
+    "business": 1180,
+    "private": 150,
+    "service": 80
+  },
+  {
+    "date": "2015-05-07",
+    "business": 1240,
+    "service": 40,
+    "private": 60
+  },
+  {
+    "date": "2015-05-08",
+    "business": 1200,
+    "service": 100,
+    "private": 190
+  },
+  {
+    "date": "2015-05-09",
+    "business": 680,
+    "service": 60,
+    "private": 120
+  },
+  {
+    "date": "2015-05-10",
+    "business": 720,
+    "service": 40,
+    "private": 90
+  },
+  {
+    "date": "2015-05-11",
+    "business": 1360,
+    "private": 370,
+    "service": 60
+  },
+  {
+    "date": "2015-05-13",
+    "business": 1140,
+    "service": 60,
+    "private": 140
+  },
+  {
+    "date": "2015-05-14",
+    "business": 550,
+    "service": 50,
+    "private": 110
+  },
+  {
+    "date": "2015-05-18",
+    "business": 1110,
+    "service": 70,
+    "private": 60
+  },
+  {
+    "date": "2016-06-19",
+    "business": 980,
+    "service": 70,
+    "private": 160
+  },
+  {
+    "date": "2015-08-03",
+    "business": 800,
+    "service": 130,
+    "private": 130
+  },
+  {
+    "date": "2015-08-04",
+    "business": 790,
+    "service": 110,
+    "private": 80
+  },
+  {
+    "date": "2015-07-10",
+    "business": 740,
+    "service": 60,
+    "private": 110
+  },
+  {
+    "date": "2015-07-09",
+    "business": 990,
+    "service": 60,
+    "private": 190
+  },
+  {
+    "date": "2016-02-26",
+    "business": 1730,
+    "service": 160,
+    "private": 200
+  },
+  {
+    "date": "2016-02-27",
+    "business": 940,
+    "service": 70,
+    "private": 120
+  },
+  {
+    "date": "2016-02-28",
+    "business": 850,
+    "service": 70,
+    "private": 120
+  },
+  {
+    "date": "2016-03-01",
+    "business": 2310,
+    "private": 200,
+    "service": 60
+  },
+  {
+    "date": "2016-02-24",
+    "business": 2930,
+    "service": 50,
+    "private": 170
+  },
+  {
+    "date": "2016-02-25",
+    "business": 2140,
+    "service": 60,
+    "private": 200
+  },
+  {
+    "date": "2016-01-28",
+    "business": 2480,
+    "private": 140,
+    "service": 190
+  },
+  {
+    "date": "2016-01-29",
+    "business": 2050,
+    "private": 140,
+    "service": 180
+  },
+  {
+    "date": "2016-01-30",
+    "business": 1100,
+    "private": 120,
+    "service": 130
+  },
+  {
+    "date": "2016-01-31",
+    "business": 1240,
+    "private": 110,
+    "service": 110
+  },
+  {
+    "date": "2016-02-01",
+    "business": 2010,
+    "service": 80,
+    "private": 60
+  },
+  {
+    "date": "2016-02-02",
+    "business": 2640,
+    "service": 70,
+    "private": 90
+  },
+  {
+    "date": "2016-02-03",
+    "business": 2600,
+    "service": 140,
+    "private": 60
+  },
+  {
+    "date": "2016-02-04",
+    "business": 2310,
+    "service": 220,
+    "private": 80
+  },
+  {
+    "date": "2016-02-05",
+    "business": 1870,
+    "service": 140,
+    "private": 80
+  },
+  {
+    "date": "2016-02-06",
+    "business": 1030,
+    "service": 60,
+    "private": 80
+  },
+  {
+    "date": "2016-02-07",
+    "business": 860,
+    "service": 70,
+    "private": 70
+  },
+  {
+    "date": "2016-02-08",
+    "business": 1580,
+    "service": 90,
+    "private": 30
+  },
+  {
+    "date": "2016-02-09",
+    "business": 1950,
+    "service": 50,
+    "private": 70
+  },
+  {
+    "date": "2016-02-10",
+    "business": 2510,
+    "service": 50,
+    "private": 120
+  },
+  {
+    "date": "2016-02-11",
+    "business": 2500,
+    "service": 80,
+    "private": 70
+  },
+  {
+    "date": "2016-02-12",
+    "business": 2040,
+    "service": 170,
+    "private": 90
+  },
+  {
+    "date": "2016-02-13",
+    "business": 1030,
+    "service": 70,
+    "private": 80
+  },
+  {
+    "date": "2016-02-14",
+    "business": 920,
+    "service": 40,
+    "private": 100
+  },
+  {
+    "date": "2016-02-15",
+    "business": 2220,
+    "service": 100,
+    "private": 80
+  },
+  {
+    "date": "2016-02-16",
+    "business": 2740,
+    "service": 110,
+    "private": 110
+  },
+  {
+    "date": "2016-02-17",
+    "business": 2680,
+    "service": 100,
+    "private": 150
+  },
+  {
+    "date": "2016-02-18",
+    "business": 2340,
+    "service": 120,
+    "private": 130
+  },
+  {
+    "date": "2016-02-19",
+    "business": 2010,
+    "service": 140,
+    "private": 150
+  },
+  {
+    "date": "2016-02-20",
+    "business": 1010,
+    "service": 70,
+    "private": 130
+  },
+  {
+    "date": "2016-02-21",
+    "business": 1010,
+    "service": 50,
+    "private": 90
+  },
+  {
+    "date": "2016-02-22",
+    "business": 2480,
+    "service": 100,
+    "private": 130
+  },
+  {
+    "date": "2016-02-23",
+    "business": 2650,
+    "service": 30,
+    "private": 170
+  },
+  {
+    "date": "2016-03-02",
+    "business": 2370,
+    "private": 390,
+    "service": 40
+  },
+  {
+    "date": "2016-03-03",
+    "business": 2410,
+    "service": 140,
+    "private": 320
+  },
+  {
+    "date": "2016-03-04",
+    "business": 2020,
+    "private": 310,
+    "service": 60
+  },
+  {
+    "date": "2016-03-05",
+    "business": 1080,
+    "service": 70,
+    "private": 120
+  },
+  {
+    "date": "2016-03-06",
+    "business": 1070,
+    "service": 40,
+    "private": 130
+  },
+  {
+    "date": "2016-03-08",
+    "business": 2600,
+    "service": 60,
+    "private": 180
+  },
+  {
+    "date": "2016-03-07",
+    "business": 2260,
+    "service": 110,
+    "private": 280
+  },
+  {
+    "date": "2016-03-09",
+    "business": 2710,
+    "service": 60,
+    "private": 250
+  },
+  {
+    "date": "2016-03-10",
+    "business": 2380,
+    "service": 90,
+    "private": 280
+  },
+  {
+    "date": "2016-03-11",
+    "business": 2010,
+    "private": 310,
+    "service": 80
+  },
+  {
+    "date": "2016-03-12",
+    "business": 1150,
+    "private": 200,
+    "service": 70
+  },
+  {
+    "date": "2016-03-13",
+    "business": 1080,
+    "private": 270,
+    "service": 60
+  },
+  {
+    "date": "2016-03-14",
+    "business": 2300,
+    "service": 140,
+    "private": 250
+  },
+  {
+    "date": "2016-03-15",
+    "business": 2460,
+    "service": 140,
+    "private": 310
+  },
+  {
+    "date": "2016-03-16",
+    "business": 2520,
+    "service": 140,
+    "private": 340
+  },
+  {
+    "date": "2016-03-17",
+    "business": 2390,
+    "service": 70,
+    "private": 340
+  },
+  {
+    "date": "2016-03-18",
+    "business": 1950,
+    "service": 110,
+    "private": 380
+  },
+  {
+    "date": "2016-03-19",
+    "business": 1040,
+    "service": 60,
+    "private": 300
+  },
+  {
+    "date": "2016-03-20",
+    "business": 1080,
+    "service": 40,
+    "private": 290
+  },
+  {
+    "date": "2016-03-21",
+    "business": 2440,
+    "service": 70,
+    "private": 310
+  },
+  {
+    "date": "2016-03-22",
+    "business": 2490,
+    "service": 80,
+    "private": 250
+  },
+  {
+    "date": "2016-03-24",
+    "business": 1870,
+    "service": 150,
+    "private": 340
+  },
+  {
+    "date": "2016-03-25",
+    "business": 880,
+    "private": 300,
+    "service": 50
+  },
+  {
+    "date": "2016-03-26",
+    "business": 920,
+    "private": 230,
+    "service": 20
+  },
+  {
+    "date": "2016-03-27",
+    "business": 850,
+    "private": 240,
+    "service": 20
+  },
+  {
+    "date": "2016-03-28",
+    "business": 890,
+    "private": 220,
+    "service": 20
+  },
+  {
+    "date": "2016-03-29",
+    "business": 2100,
+    "private": 200,
+    "service": 50
+  },
+  {
+    "date": "2016-03-31",
+    "business": 2500,
+    "private": 250,
+    "service": 110
+  },
+  {
+    "date": "2016-04-01",
+    "business": 2040,
+    "private": 320,
+    "service": 220
+  },
+  {
+    "date": "2016-04-02",
+    "business": 1070,
+    "private": 190,
+    "service": 100
+  },
+  {
+    "date": "2016-04-03",
+    "business": 940,
+    "private": 170,
+    "service": 70
+  },
+  {
+    "date": "2016-05-07",
+    "business": 920,
+    "service": 80,
+    "private": 150
+  },
+  {
+    "date": "2016-05-08",
+    "business": 780,
+    "service": 80,
+    "private": 160
+  },
+  {
+    "date": "2016-05-09",
+    "business": 2580,
+    "service": 100,
+    "private": 180
+  },
+  {
+    "date": "2016-05-21",
+    "business": 1060,
+    "service": 90,
+    "private": 240
+  },
+  {
+    "date": "2016-05-22",
+    "business": 850,
+    "service": 80,
+    "private": 190
+  },
+  {
+    "date": "2016-05-28",
+    "business": 940,
+    "service": 130,
+    "private": 160
+  },
+  {
+    "date": "2016-05-29",
+    "business": 770,
+    "service": 90,
+    "private": 170
+  },
+  {
+    "date": "2016-06-02",
+    "business": 2950,
+    "service": 160,
+    "private": 130
+  },
+  {
+    "date": "2016-06-06",
+    "business": 2470,
+    "private": 130,
+    "service": 170
+  },
+  {
+    "date": "2016-06-07",
+    "business": 2930,
+    "private": 190,
+    "service": 160
+  },
+  {
+    "date": "2016-06-08",
+    "business": 3100,
+    "private": 140,
+    "service": 170
+  },
+  {
+    "date": "2016-06-14",
+    "business": 2950,
+    "service": 140,
+    "private": 230
+  },
+  {
+    "date": "2015-07-11",
+    "business": 500,
+    "service": 90,
+    "private": 110
+  },
+  {
+    "date": "2016-01-20",
+    "business": 2430,
+    "private": 170,
+    "service": 30
+  },
+  {
+    "date": "2016-01-21",
+    "business": 2490,
+    "private": 110,
+    "service": 210
+  },
+  {
+    "date": "2015-12-01",
+    "business": 2280,
+    "service": 130,
+    "private": 240
+  },
+  {
+    "date": "2015-12-02",
+    "business": 2110,
+    "service": 230,
+    "private": 180
+  },
+  {
+    "date": "2015-12-04",
+    "business": 1640,
+    "service": 260,
+    "private": 220
+  },
+  {
+    "date": "2015-12-03",
+    "private": 90,
+    "business": 2120,
+    "service": 140
+  },
+  {
+    "date": "2016-01-25",
+    "service": 90,
+    "business": 2140,
+    "private": 100
+  },
+  {
+    "date": "2016-06-15",
+    "business": 2820,
+    "private": 130,
+    "service": 170
+  },
+  {
+    "date": "2016-06-16",
+    "business": 2780,
+    "service": 170,
+    "private": 110
+  },
+  {
+    "date": "2016-01-14",
+    "business": 2150,
+    "private": 120,
+    "service": 250
+  },
+  {
+    "date": "2016-07-11",
+    "business": 2570,
+    "private": 190,
+    "service": 120
+  },
+  {
+    "date": "2015-10-26",
+    "private": 150,
+    "business": 1790,
+    "service": 140
+  },
+  {
+    "date": "2015-11-24",
+    "business": 2300,
+    "service": 60,
+    "private": 90
+  },
+  {
+    "date": "2015-06-16",
+    "business": 1280,
+    "service": 50,
+    "private": 190
+  },
+  {
+    "date": "2016-07-16",
+    "private": 240,
+    "business": 980,
+    "service": 90
+  },
+  {
+    "date": "2016-07-17",
+    "private": 240,
+    "business": 670,
+    "service": 50
+  },
+  {
+    "date": "2015-12-23",
+    "business": 880,
+    "service": 240,
+    "private": 50
+  },
+  {
+    "date": "2015-12-24",
+    "business": 470,
+    "service": 70,
+    "private": 60
+  },
+  {
+    "date": "2015-12-25",
+    "business": 440,
+    "service": 50,
+    "private": 60
+  },
+  {
+    "date": "2015-12-26",
+    "business": 470,
+    "service": 80,
+    "private": 50
+  },
+  {
+    "date": "2015-12-27",
+    "business": 430,
+    "service": 50,
+    "private": 50
+  },
+  {
+    "date": "2015-12-28",
+    "business": 680,
+    "service": 170,
+    "private": 50
+  },
+  {
+    "date": "2015-12-29",
+    "business": 690,
+    "service": 310,
+    "private": 40
+  },
+  {
+    "date": "2015-12-30",
+    "business": 640,
+    "service": 200,
+    "private": 150
+  },
+  {
+    "date": "2015-12-31",
+    "business": 490,
+    "service": 70,
+    "private": 70
+  },
+  {
+    "date": "2016-01-01",
+    "business": 440,
+    "service": 50,
+    "private": 70
+  },
+  {
+    "date": "2016-01-02",
+    "business": 460,
+    "service": 120,
+    "private": 70
+  },
+  {
+    "date": "2016-01-03",
+    "business": 420,
+    "service": 50,
+    "private": 80
+  },
+  {
+    "date": "2016-01-04",
+    "business": 1070,
+    "service": 160,
+    "private": 130
+  },
+  {
+    "date": "2016-01-05",
+    "business": 1480,
+    "service": 140,
+    "private": 120
+  },
+  {
+    "date": "2016-01-06",
+    "business": 1420,
+    "private": 90,
+    "service": 60
+  },
+  {
+    "date": "2016-01-07",
+    "business": 1790,
+    "service": 190,
+    "private": 130
+  },
+  {
+    "date": "2016-01-08",
+    "business": 1410,
+    "service": 150,
+    "private": 140
+  },
+  {
+    "date": "2016-01-09",
+    "business": 820,
+    "service": 130,
+    "private": 110
+  },
+  {
+    "date": "2016-01-10",
+    "business": 870,
+    "service": 60,
+    "private": 100
+  },
+  {
+    "date": "2016-01-11",
+    "business": 1800,
+    "service": 150,
+    "private": 90
+  },
+  {
+    "date": "2016-01-12",
+    "business": 2320,
+    "service": 180,
+    "private": 120
+  },
+  {
+    "date": "2016-01-13",
+    "business": 2560,
+    "private": 120,
+    "service": 260
+  },
+  {
+    "date": "2016-01-15",
+    "business": 1800,
+    "private": 80,
+    "service": 70
+  },
+  {
+    "date": "2016-01-16",
+    "business": 1090,
+    "private": 70,
+    "service": 50
+  },
+  {
+    "date": "2016-01-17",
+    "business": 1070,
+    "private": 50,
+    "service": 20
+  },
+  {
+    "date": "2016-01-18",
+    "business": 1910,
+    "private": 60,
+    "service": 60
+  },
+  {
+    "date": "2016-01-19",
+    "business": 2330,
+    "private": 110,
+    "service": 40
+  },
+  {
+    "date": "2016-01-22",
+    "business": 1770,
+    "private": 200,
+    "service": 90
+  },
+  {
+    "date": "2016-01-23",
+    "business": 1020,
+    "private": 180,
+    "service": 20
+  },
+  {
+    "date": "2016-01-24",
+    "business": 930,
+    "private": 200,
+    "service": 30
+  },
+  {
+    "date": "2016-01-26",
+    "business": 2330,
+    "private": 150,
+    "service": 80
+  },
+  {
+    "date": "2016-01-27",
+    "business": 2690,
+    "private": 110,
+    "service": 90
+  },
+  {
+    "date": "2015-11-13",
+    "business": 1640,
+    "service": 140,
+    "private": 110
+  },
+  {
+    "date": "2015-10-28",
+    "business": 2170,
+    "private": 250,
+    "service": 130
+  },
+  {
+    "date": "2015-09-28",
+    "business": 1540,
+    "service": 110,
+    "private": 80
+  },
+  {
+    "date": "2015-10-16",
+    "private": 150,
+    "business": 1500,
+    "service": 110
+  },
+  {
+    "date": "2015-10-17",
+    "private": 120,
+    "business": 850,
+    "service": 70
+  },
+  {
+    "date": "2015-10-18",
+    "private": 110,
+    "business": 850,
+    "service": 50
+  },
+  {
+    "date": "2015-10-21",
+    "private": 110,
+    "business": 2090,
+    "service": 210
+  },
+  {
+    "date": "2015-09-30",
+    "business": 1850,
+    "service": 80,
+    "private": 80
+  },
+  {
+    "date": "2015-10-01",
+    "business": 1810,
+    "service": 100,
+    "private": 150
+  },
+  {
+    "date": "2015-10-02",
+    "business": 1320,
+    "service": 140,
+    "private": 170
+  },
+  {
+    "date": "2015-10-03",
+    "business": 730,
+    "service": 130,
+    "private": 130
+  },
+  {
+    "date": "2015-10-04",
+    "business": 720,
+    "service": 90,
+    "private": 130
+  },
+  {
+    "date": "2015-10-14",
+    "private": 130,
+    "business": 2050,
+    "service": 70
+  },
+  {
+    "date": "2015-10-22",
+    "private": 200,
+    "business": 2150,
+    "service": 150
+  },
+  {
+    "date": "2015-11-05",
+    "private": 140,
+    "business": 1840,
+    "service": 100
+  },
+  {
+    "date": "2015-11-10",
+    "private": 130,
+    "business": 2110,
+    "service": 230
+  },
+  {
+    "date": "2015-11-11",
+    "private": 90,
+    "business": 2010,
+    "service": 90
+  },
+  {
+    "date": "2015-11-17",
+    "private": 180,
+    "business": 2300,
+    "service": 130
+  },
+  {
+    "date": "2015-11-19",
+    "private": 60,
+    "business": 1970,
+    "service": 80
+  },
+  {
+    "date": "2015-11-27",
+    "private": 220,
+    "business": 1540,
+    "service": 60
+  },
+  {
+    "date": "2015-10-05",
+    "business": 1590,
+    "service": 180,
+    "private": 150
+  },
+  {
+    "date": "2015-10-09",
+    "business": 1350,
+    "service": 90,
+    "private": 150
+  },
+  {
+    "date": "2015-10-11",
+    "business": 890,
+    "service": 20,
+    "private": 100
+  },
+  {
+    "date": "2015-10-19",
+    "business": 1750,
+    "service": 140,
+    "private": 160
+  },
+  {
+    "date": "2015-10-20",
+    "business": 2190,
+    "service": 70,
+    "private": 200
+  },
+  {
+    "date": "2015-10-23",
+    "business": 1340,
+    "service": 100,
+    "private": 110
+  },
+  {
+    "date": "2015-10-24",
+    "business": 660,
+    "service": 70,
+    "private": 130
+  },
+  {
+    "date": "2015-10-25",
+    "business": 710,
+    "service": 50,
+    "private": 90
+  },
+  {
+    "date": "2015-10-27",
+    "business": 2040,
+    "private": 170,
+    "service": 80
+  },
+  {
+    "date": "2015-11-02",
+    "business": 1670,
+    "service": 110,
+    "private": 80
+  },
+  {
+    "date": "2015-10-07",
+    "business": 2000,
+    "service": 100,
+    "private": 140
+  },
+  {
+    "date": "2015-10-10",
+    "business": 890,
+    "service": 20,
+    "private": 120
+  },
+  {
+    "date": "2015-10-12",
+    "business": 1970,
+    "service": 140,
+    "private": 120
+  },
+  {
+    "date": "2015-10-06",
+    "business": 1770,
+    "service": 130,
+    "private": 100
+  },
+  {
+    "date": "2015-10-08",
+    "business": 1860,
+    "service": 60,
+    "private": 160
+  },
+  {
+    "date": "2015-10-31",
+    "business": 990,
+    "service": 80,
+    "private": 60
+  },
+  {
+    "date": "2015-07-07",
+    "business": 1150,
+    "service": 140,
+    "private": 210
+  },
+  {
+    "date": "2015-07-06",
+    "business": 840,
+    "service": 70,
+    "private": 120
+  },
+  {
+    "date": "2015-07-03",
+    "business": 860,
+    "service": 210,
+    "private": 160
+  },
+  {
+    "date": "2015-07-17",
+    "business": 670,
+    "service": 130,
+    "private": 160
+  },
+  {
+    "date": "2015-07-15",
+    "business": 1040,
+    "service": 70,
+    "private": 110
+  },
+  {
+    "date": "2015-07-24",
+    "business": 770,
+    "service": 70,
+    "private": 160
+  },
+  {
+    "date": "2015-07-21",
+    "business": 890,
+    "service": 80,
+    "private": 110
+  },
+  {
+    "date": "2015-07-12",
+    "business": 490,
+    "service": 30,
+    "private": 140
+  },
+  {
+    "date": "2015-07-04",
+    "business": 530,
+    "service": 90,
+    "private": 110
+  },
+  {
+    "date": "2015-07-23",
+    "business": 1120,
+    "service": 60,
+    "private": 120
+  },
+  {
+    "date": "2015-07-22",
+    "business": 1090,
+    "service": 80,
+    "private": 120
+  },
+  {
+    "date": "2015-07-28",
+    "business": 960,
+    "service": 90,
+    "private": 160
+  },
+  {
+    "date": "2015-07-14",
+    "business": 1110,
+    "service": 60,
+    "private": 170
+  },
+  {
+    "date": "2015-07-25",
+    "business": 450,
+    "service": 90,
+    "private": 110
+  },
+  {
+    "date": "2015-07-13",
+    "business": 860,
+    "service": 60,
+    "private": 140
+  },
+  {
+    "date": "2015-07-08",
+    "business": 1170,
+    "service": 30,
+    "private": 170
+  },
+  {
+    "date": "2015-07-05",
+    "business": 550,
+    "service": 50,
+    "private": 130
+  },
+  {
+    "date": "2015-07-16",
+    "business": 1070,
+    "service": 70,
+    "private": 140
+  },
+  {
+    "date": "2015-07-29",
+    "business": 1090,
+    "service": 90,
+    "private": 260
+  },
+  {
+    "date": "2015-07-20",
+    "business": 850,
+    "service": 50,
+    "private": 110
+  },
+  {
+    "date": "2015-07-18",
+    "business": 450,
+    "service": 110,
+    "private": 80
+  },
+  {
+    "date": "2015-11-09",
+    "business": 1950,
+    "service": 70,
+    "private": 140
+  },
+  {
+    "date": "2015-11-01",
+    "business": 910,
+    "service": 50,
+    "private": 90
+  },
+  {
+    "date": "2015-11-08",
+    "business": 830,
+    "private": 70,
+    "service": 50
+  },
+  {
+    "date": "2015-11-03",
+    "business": 1770,
+    "service": 110,
+    "private": 70
+  },
+  {
+    "date": "2015-11-06",
+    "business": 1370,
+    "private": 150,
+    "service": 160
+  },
+  {
+    "date": "2015-11-07",
+    "business": 860,
+    "service": 90,
+    "private": 60
+  },
+  {
+    "date": "2015-11-12",
+    "business": 1820,
+    "service": 100,
+    "private": 190
+  },
+  {
+    "date": "2016-06-18",
+    "business": 940,
+    "service": 90,
+    "private": 160
+  },
+  {
+    "date": "2016-06-25",
+    "business": 1460,
+    "service": 50,
+    "private": 190
+  },
+  {
+    "date": "2016-06-26",
+    "business": 1200,
+    "service": 50,
+    "private": 180
+  },
+  {
+    "date": "2016-06-27",
+    "business": 3080,
+    "service": 100,
+    "private": 170
+  },
+  {
+    "date": "2016-06-28",
+    "business": 2980,
+    "private": 240,
+    "service": 140
+  },
+  {
+    "date": "2016-06-29",
+    "business": 3500,
+    "private": 180,
+    "service": 170
+  },
+  {
+    "date": "2016-06-30",
+    "business": 2920,
+    "private": 210,
+    "service": 180
+  },
+  {
+    "date": "2016-07-13",
+    "private": 190,
+    "business": 3000,
+    "service": 150
+  },
+  {
+    "date": "2016-07-14",
+    "private": 290,
+    "business": 2630,
+    "service": 190
+  },
+  {
+    "date": "2016-07-06",
+    "business": 3020,
+    "private": 120,
+    "service": 120
+  },
+  {
+    "date": "2016-07-26",
+    "business": 2420,
+    "private": 270,
+    "service": 110
+  },
+  {
+    "date": "2016-07-27",
+    "business": 2270,
+    "private": 160,
+    "service": 120
+  },
+  {
+    "date": "2016-07-28",
+    "business": 770,
+    "private": 100,
+    "service": 90
+  },
+  {
+    "date": "2016-07-07",
+    "business": 2810,
+    "private": 290,
+    "service": 120
+  },
+  {
+    "date": "2016-07-02",
+    "business": 1520,
+    "private": 150,
+    "service": 80
+  },
+  {
+    "date": "2016-07-03",
+    "business": 1230,
+    "private": 120,
+    "service": 40
+  },
+  {
+    "date": "2016-07-05",
+    "business": 3240,
+    "private": 150,
+    "service": 80
+  },
+  {
+    "date": "2016-07-04",
+    "business": 2810,
+    "private": 240,
+    "service": 140
+  },
+  {
+    "date": "2015-11-14",
+    "business": 710,
+    "service": 40,
+    "private": 80
+  },
+  {
+    "date": "2015-11-15",
+    "business": 740,
+    "service": 30,
+    "private": 80
+  },
+  {
+    "date": "2015-11-16",
+    "business": 2180,
+    "service": 110,
+    "private": 120
+  },
+  {
+    "date": "2015-11-18",
+    "business": 2250,
+    "service": 70,
+    "private": 260
+  },
+  {
+    "date": "2015-11-20",
+    "business": 1660,
+    "service": 120,
+    "private": 110
+  },
+  {
+    "date": "2015-11-21",
+    "business": 820,
+    "service": 70,
+    "private": 50
+  },
+  {
+    "date": "2015-11-22",
+    "business": 820,
+    "service": 50,
+    "private": 40
+  },
+  {
+    "date": "2015-11-23",
+    "business": 1650,
+    "service": 90,
+    "private": 120
+  },
+  {
+    "date": "2015-11-25",
+    "business": 2180,
+    "service": 80,
+    "private": 100
+  },
+  {
+    "date": "2015-11-26",
+    "business": 1920,
+    "service": 60,
+    "private": 90
+  },
+  {
+    "date": "2015-11-28",
+    "business": 840,
+    "service": 50,
+    "private": 160
+  },
+  {
+    "date": "2015-11-29",
+    "business": 750,
+    "service": 50,
+    "private": 150
+  },
+  {
+    "date": "2015-11-30",
+    "business": 1940,
+    "service": 110,
+    "private": 160
+  },
+  {
+    "date": "2015-12-05",
+    "business": 830,
+    "service": 130,
+    "private": 90
+  },
+  {
+    "date": "2015-12-06",
+    "business": 830,
+    "service": 110,
+    "private": 100
+  },
+  {
+    "date": "2015-12-07",
+    "business": 1620,
+    "service": 140,
+    "private": 130
+  },
+  {
+    "date": "2015-12-08",
+    "business": 2160,
+    "service": 120,
+    "private": 200
+  },
+  {
+    "date": "2015-12-09",
+    "business": 2350,
+    "service": 640,
+    "private": 80
+  },
+  {
+    "date": "2015-12-10",
+    "business": 2080,
+    "service": 460,
+    "private": 90
+  },
+  {
+    "date": "2015-12-11",
+    "business": 1520,
+    "service": 210,
+    "private": 100
+  },
+  {
+    "date": "2015-12-12",
+    "business": 770,
+    "service": 210,
+    "private": 60
+  },
+  {
+    "date": "2015-12-13",
+    "business": 800,
+    "service": 120,
+    "private": 50
+  },
+  {
+    "date": "2015-12-14",
+    "business": 1950,
+    "service": 270,
+    "private": 90
+  },
+  {
+    "date": "2015-12-15",
+    "business": 1960,
+    "service": 280,
+    "private": 80
+  },
+  {
+    "date": "2015-12-16",
+    "business": 2020,
+    "service": 230,
+    "private": 130
+  },
+  {
+    "date": "2015-12-17",
+    "business": 2130,
+    "service": 200,
+    "private": 90
+  },
+  {
+    "date": "2015-12-18",
+    "business": 1440,
+    "service": 180,
+    "private": 90
+  },
+  {
+    "date": "2015-12-19",
+    "business": 620,
+    "service": 150,
+    "private": 70
+  },
+  {
+    "date": "2015-12-20",
+    "business": 580,
+    "service": 140,
+    "private": 70
+  },
+  {
+    "date": "2015-12-21",
+    "business": 1390,
+    "service": 190,
+    "private": 100
+  },
+  {
+    "date": "2015-12-22",
+    "business": 1140,
+    "service": 180,
+    "private": 90
+  },
+  {
+    "date": "2015-06-12",
+    "business": 1000,
+    "private": 350,
+    "service": 90
+  },
+  {
+    "date": "2015-06-13",
+    "business": 680,
+    "private": 150,
+    "service": 80
+  },
+  {
+    "date": "2015-06-14",
+    "business": 590,
+    "private": 130,
+    "service": 20
+  },
+  {
+    "date": "2015-06-10",
+    "private": 240,
+    "business": 1280,
+    "service": 190
+  },
+  {
+    "date": "2015-06-17",
+    "business": 1210,
+    "service": 140,
+    "private": 130
+  },
+  {
+    "date": "2015-06-18",
+    "business": 1310,
+    "service": 190,
+    "private": 180
+  },
+  {
+    "date": "2015-06-19",
+    "business": 1210,
+    "service": 250,
+    "private": 160
+  },
+  {
+    "date": "2015-06-30",
+    "business": 1240,
+    "service": 130,
+    "private": 100
+  },
+  {
+    "date": "2015-06-20",
+    "business": 740,
+    "service": 200,
+    "private": 180
+  },
+  {
+    "date": "2015-06-21",
+    "business": 770,
+    "service": 100,
+    "private": 120
+  },
+  {
+    "date": "2015-06-22",
+    "service": 170,
+    "private": 150,
+    "business": 1050
+  },
+  {
+    "date": "2015-06-23",
+    "service": 210,
+    "business": 1080,
+    "private": 70
+  },
+  {
+    "date": "2015-06-24",
+    "service": 110,
+    "business": 1040,
+    "private": 90
+  },
+  {
+    "date": "2015-06-25",
+    "service": 460,
+    "business": 1080,
+    "private": 100
+  },
+  {
+    "date": "2015-06-26",
+    "service": 160,
+    "business": 850,
+    "private": 130
+  },
+  {
+    "date": "2015-06-28",
+    "service": 70,
+    "business": 550,
+    "private": 100
+  },
+  {
+    "date": "2015-06-29",
+    "service": 100,
+    "business": 1160,
+    "private": 190
+  },
+  {
+    "date": "2015-07-02",
+    "service": 190,
+    "private": 100,
+    "business": 1160
+  },
+  {
+    "date": "2015-07-19",
+    "service": 50,
+    "private": 150,
+    "business": 370
+  },
+  {
+    "date": "2015-07-26",
+    "service": 50,
+    "private": 130,
+    "business": 440
+  },
+  {
+    "date": "2015-07-27",
+    "service": 60,
+    "private": 130,
+    "business": 780
+  },
+  {
+    "date": "2015-08-01",
+    "service": 80,
+    "business": 420,
+    "private": 120
+  },
+  {
+    "date": "2015-08-02",
+    "service": 60,
+    "business": 360,
+    "private": 130
+  },
+  {
+    "date": "2015-08-07",
+    "service": 120,
+    "business": 660,
+    "private": 120
+  },
+  {
+    "date": "2015-08-08",
+    "service": 100,
+    "business": 500,
+    "private": 100
+  },
+  {
+    "date": "2015-08-09",
+    "service": 60,
+    "business": 470,
+    "private": 100
+  },
+  {
+    "date": "2015-08-10",
+    "service": 70,
+    "business": 910,
+    "private": 90
+  },
+  {
+    "date": "2015-08-15",
+    "service": 80,
+    "business": 560,
+    "private": 90
+  },
+  {
+    "date": "2015-08-16",
+    "service": 60,
+    "business": 530,
+    "private": 70
+  },
+  {
+    "date": "2015-08-22",
+    "service": 50,
+    "business": 570,
+    "private": 60
+  },
+  {
+    "date": "2015-08-23",
+    "service": 50,
+    "business": 570,
+    "private": 60
+  },
+  {
+    "date": "2015-08-27",
+    "service": 110,
+    "business": 1200,
+    "private": 230
+  },
+  {
+    "date": "2015-09-04",
+    "service": 180,
+    "business": 1160,
+    "private": 130
+  },
+  {
+    "date": "2015-09-05",
+    "service": 90,
+    "business": 730,
+    "private": 110
+  },
+  {
+    "date": "2015-09-06",
+    "service": 70,
+    "business": 710,
+    "private": 150
+  },
+  {
+    "date": "2015-09-11",
+    "service": 200,
+    "business": 1040,
+    "private": 130
+  },
+  {
+    "date": "2015-09-12",
+    "service": 80,
+    "business": 650,
+    "private": 150
+  },
+  {
+    "date": "2015-09-13",
+    "service": 70,
+    "business": 670,
+    "private": 110
+  },
+  {
+    "date": "2015-09-17",
+    "service": 110,
+    "business": 1610,
+    "private": 140
+  },
+  {
+    "date": "2015-05-27",
+    "private": 400,
+    "business": 1300,
+    "service": 150
+  },
+  {
+    "date": "2015-05-25",
+    "business": 790,
+    "private": 200,
+    "service": 50
+  },
+  {
+    "date": "2015-05-26",
+    "private": 110,
+    "business": 1180,
+    "service": 50
+  },
+  {
+    "date": "2015-05-29",
+    "private": 250,
+    "business": 1080,
+    "service": 190
+  },
+  {
+    "date": "2015-05-30",
+    "business": 740,
+    "private": 200
+  },
+  {
+    "date": "2015-05-31",
+    "business": 760,
+    "private": 120
+  },
+  {
+    "date": "2015-06-01",
+    "private": 220,
+    "business": 1160
+  },
+  {
+    "date": "2015-06-02",
+    "business": 1230,
+    "private": 170
+  },
+  {
+    "date": "2015-06-03",
+    "business": 1070,
+    "private": 220,
+    "service": 110
+  },
+  {
+    "date": "2015-06-04",
+    "business": 780,
+    "private": 140,
+    "service": 20
+  },
+  {
+    "date": "2015-06-05",
+    "private": 210,
+    "business": 800,
+    "service": 60
+  },
+  {
+    "date": "2015-06-06",
+    "business": 680,
+    "private": 160,
+    "service": 60
+  },
+  {
+    "date": "2015-06-07",
+    "private": 140,
+    "business": 650,
+    "service": 20
+  },
+  {
+    "date": "2015-06-08",
+    "business": 1250,
+    "private": 170,
+    "service": 80
+  },
+  {
+    "date": "2015-06-09",
+    "business": 1370,
+    "private": 130,
+    "service": 110
+  },
+  {
+    "date": "2015-05-22",
+    "business": 1030,
+    "private": 170,
+    "service": 70
+  },
+  {
+    "date": "2015-09-18",
+    "business": 1380,
+    "private": 150,
+    "service": 100
+  },
+  {
+    "date": "2015-09-21",
+    "business": 1660,
+    "service": 70,
+    "private": 160
+  },
+  {
+    "date": "2015-09-19",
+    "business": 880,
+    "service": 80,
+    "private": 100
+  },
+  {
+    "date": "2015-09-20",
+    "business": 900,
+    "service": 40,
+    "private": 130
+  },
+  {
+    "date": "2015-09-22",
+    "business": 1710,
+    "service": 130,
+    "private": 100
+  },
+  {
+    "date": "2015-09-23",
+    "service": 120,
+    "business": 1700,
+    "private": 90
+  },
+  {
+    "date": "2015-09-24",
+    "service": 160,
+    "business": 1740,
+    "private": 70
+  },
+  {
+    "date": "2015-09-25",
+    "service": 110,
+    "business": 1300,
+    "private": 60
+  },
+  {
+    "date": "2015-09-26",
+    "service": 110,
+    "business": 780,
+    "private": 70
+  },
+  {
+    "date": "2015-09-27",
+    "service": 80,
+    "business": 810,
+    "private": 60
+  }
+]
